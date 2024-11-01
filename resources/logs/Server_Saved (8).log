@@ -1,0 +1,1888 @@
+﻿[2024-10-21 20:30:57] Reflect net invokables: 30ms
+[2024-10-21 20:30:57] Scheduled CHRISTMAS from 12/7/2024 12:00:00 AM to 1/2/2025 12:00:00 PM local time (12/7/2024 8:00:00 AM to 1/2/2025 8:00:00 PM UTC)
+[2024-10-21 20:30:57] Scheduled HALLOWEEN from 10/20/2024 12:00:00 AM to 11/1/2024 12:00:00 PM local time (10/20/2024 7:00:00 AM to 11/1/2024 7:00:00 PM UTC)
+[2024-10-21 20:30:57] Scheduled VALENTINES from 2/14/2024 12:00:00 AM to 2/14/2024 11:59:59 PM local time (2/14/2024 8:00:00 AM to 2/15/2024 7:59:59 AM UTC)
+[2024-10-21 20:30:57] Scheduled APRIL_FOOLS from 4/1/2024 12:00:00 AM to 4/1/2024 11:59:59 PM local time (4/1/2024 7:00:00 AM to 4/2/2024 6:59:59 AM UTC)
+[2024-10-21 20:30:57] Scheduled PRIDE_MONTH from 6/1/2024 12:00:00 AM to 6/30/2024 11:59:59 PM local time (6/1/2024 7:00:00 AM to 7/1/2024 6:59:59 AM UTC)
+[2024-10-21 20:30:57] Unturned overriding Steam AppId with "304930"
+[2024-10-21 20:30:57] Game version: 3.24.6.1 Engine version: 2021.3.29f1
+[2024-10-21 20:30:57] Executing 5 potential game command(s) from the command-line:
+[2024-10-21 20:30:57] Did not match "nographics" with any commands
+[2024-10-21 20:30:57] Did not match "batchmode" with any commands
+[2024-10-21 20:30:57] Successfully bound IP to 170.39.215.177!
+[2024-10-21 20:30:57] Successfully set port to 27215!
+[2024-10-21 20:30:57] Successfully set max players to 30!
+[2024-10-21 20:30:57] Successfully bound IP to 170.39.215.177!
+[2024-10-21 20:30:57] Successfully set port to 27215!
+[2024-10-21 20:30:57] Successfully set name to Washington Vanilla+!
+[2024-10-21 20:30:57] Successfully set welcome message to Join the server's Discord from the main menu OR via the UPDATED code: QjJhTgsAH7!
+[2024-10-21 20:30:57] Successfully set chatrate to 0!
+[2024-10-21 20:30:57] Successfully set cycle to 2880!
+[2024-10-21 20:30:57] Successfully set map to Washington!
+[2024-10-21 20:30:57] Successfully set gamemode to normal!
+[2024-10-21 20:30:57] Successfully set owner to 76561198075897932!
+[2024-10-21 20:30:57] Successfully disabled password!
+[2024-10-21 20:30:57] Successfully set perspective to both!
+[2024-10-21 20:30:57] Successfully set queue size to 5!
+[2024-10-21 20:30:57] Successfully set timeout to 500!
+[2024-10-21 20:30:57] Successfully set log!
+[2024-10-21 20:30:57] Successfully hid admins.
+[2024-10-21 20:30:57] Successfully set voting configuration!
+[2024-10-21 20:30:57] Platform: WindowsServer
+[2024-10-21 20:30:57] Operating System: Windows 10  (10.0.20348) 64bit
+[2024-10-21 20:30:57] System Memory: 130996MB
+[2024-10-21 20:30:58] Vanilla Built-in Assets added asset search location "D:\TCAFiles\Users\codyl1\8557299\Bundles"
+[2024-10-21 20:30:58] Server Common (Legacy) added asset search location "D:\TCAFiles\Users\codyl1\8557299\Bundles\Workshop\Content"
+[2024-10-21 20:30:58] Per-Server (Legacy) added asset search location "D:\TCAFiles\Users\codyl1\8557299\Servers\Saved\Workshop\Content"
+[2024-10-21 20:30:58] Per-Server (Legacy) added asset search location "D:\TCAFiles\Users\codyl1\8557299\Servers\Saved\Bundles"
+[2024-10-21 20:30:58] Discovered level "Alpha Valley" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Alpha Valley"
+[2024-10-21 20:30:58] Discovered level "Destruction" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Destruction"
+[2024-10-21 20:30:58] Discovered level "Germany" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Germany"
+[2024-10-21 20:30:58] Discovered level "Monolith" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Monolith"
+[2024-10-21 20:30:58] Discovered level "Paintball_Arena_0" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Paintball_Arena_0"
+[2024-10-21 20:30:58] Discovered level "PEI" at "D:\TCAFiles\Users\codyl1\8557299\Maps\PEI"
+[2024-10-21 20:30:58] Discovered level "Russia" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Russia"
+[2024-10-21 20:30:58] Discovered level "Tutorial" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Tutorial"
+[2024-10-21 20:30:58] Discovered level "Washington" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Washington"
+[2024-10-21 20:30:58] Discovered level "Yukon" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Yukon"
+[2024-10-21 20:30:58] Searched 3 of 4 locations and found 819 asset files...
+[2024-10-21 20:30:58] Read 0 of 819 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 819 assets...
+[2024-10-21 20:30:58] Searched 3 of 4 locations and found 1710 asset files...
+[2024-10-21 20:30:58] Read 0 of 1710 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 1710 assets...
+[2024-10-21 20:30:58] Searched 3 of 4 locations and found 2419 asset files...
+[2024-10-21 20:30:58] Read 0 of 2419 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 2419 assets...
+[2024-10-21 20:30:58] Searched 3 of 4 locations and found 3176 asset files...
+[2024-10-21 20:30:58] Read 0 of 3176 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 3176 assets...
+[2024-10-21 20:30:58] Searched 3 of 4 locations and found 4139 asset files...
+[2024-10-21 20:30:58] Read 0 of 4139 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 4139 assets...
+[2024-10-21 20:30:58] Searched 3 of 4 locations and found 4974 asset files...
+[2024-10-21 20:30:58] Read 0 of 4974 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 4974 assets...
+[2024-10-21 20:30:58] Searched 4 of 4 locations and found 5507 asset files...
+[2024-10-21 20:30:58] Read 0 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Loaded 0 of 5507 assets...
+[2024-10-21 20:30:58] Loading asset bundle "core.masterbundle" from "D:\TCAFiles\Users\codyl1\8557299\Bundles"...
+[2024-10-21 20:30:58] Loaded 0 of 1 asset bundles...
+[2024-10-21 20:30:58] Read 237 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 632 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 949 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 1273 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 1683 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 2068 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 2405 of 5507 asset file contents into memory...
+[2024-10-21 20:30:58] Read 2823 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 3299 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 3758 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 4221 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 4511 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 4823 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 5153 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 5475 of 5507 asset file contents into memory...
+[2024-10-21 20:30:59] Read 5507 of 5507 asset file contents into memory...
+[2024-10-21 20:31:03] Loading asset bundle "core.masterbundle" from "D:\TCAFiles\Users\codyl1\8557299\Bundles" took 5.3244813s
+[2024-10-21 20:31:04] Loaded 1 of 1 asset bundles...
+[2024-10-21 20:31:04] Loaded 5 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 160 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 193 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 275 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 378 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 449 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 594 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 643 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 685 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 741 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 785 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 1012 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 1160 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 1182 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 1204 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 1493 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 1625 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 2043 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 2108 of 5507 assets...
+[2024-10-21 20:31:04] Loaded 2211 of 5507 assets...
+[2024-10-21 20:31:05] Loaded 3086 of 5507 assets...
+[2024-10-21 20:31:05] Loaded 5111 of 5507 assets...
+[2024-10-21 20:31:05] Loaded 5507 of 5507 assets...
+[2024-10-21 20:31:05] Linking blueprints...
+[2024-10-21 20:31:05] Linking spawns...
+[2024-10-21 20:31:05] Loading miscellaneous...
+[2024-10-21 20:31:05] Loading all assets took 7.2194115s
+[2024-10-21 20:31:05] Loading BattlEye server library from: D:\TCAFiles\Users\codyl1\8557299/BattlEye/BEServer_x64.dll
+[2024-10-21 20:31:05] BattlEye Print: Initialized (v1.218)
+[2024-10-21 20:31:05] Using login token
+[2024-10-21 20:31:05] Initializing ServerTransport_SteamNetworkingSockets
+[2024-10-21 20:31:05] Server listen socket bound to 170.39.215.177:27216
+[2024-10-21 20:31:05] Server P2P listen socket: 196610
+[2024-10-21 20:31:05] Waiting for Steam servers...
+[2024-10-21 20:31:05] Readiness to participate in authenticated communications changed to k_ESteamNetworkingAvailability_Waiting "Waiting for Steam login"
+[2024-10-21 20:31:05] Steam servers ready!
+[2024-10-21 20:31:05] Workshop install folder: D:\TCAFiles\Users\codyl1\8557299/Servers/Saved/Workshop/Steam
+[2024-10-21 20:31:05] 0 workshop item(s) requested
+[2024-10-21 20:31:05] Link spawns: 0 children, 826 sorted/normalized and 749 parents
+[2024-10-21 20:31:05] Adding 5507 asset(s) from origin Vanilla Built-in Assets to server mapping
+[2024-10-21 20:31:05] Server registered 41 Unity physics material names with 24 unique IDs (5 bits)
+[2024-10-21 20:31:05] Survival
+[2024-10-21 20:31:05] No workshop items to monitor for updates
+[2024-10-21 20:31:05] Readiness to participate in authenticated communications changed to k_ESteamNetworkingAvailability_Attempting "Requesting cert"
+[2024-10-21 20:31:06] Loading level: 5%
+[2024-10-21 20:31:06] Readiness to participate in authenticated communications changed to k_ESteamNetworkingAvailability_Current "OK"
+[2024-10-21 20:31:06] Loading level: 10%
+[2024-10-21 20:31:06] Loading level: 15%
+[2024-10-21 20:31:07] Loading level: 21%
+[2024-10-21 20:31:07] Loading level: 26%
+[2024-10-21 20:31:07] Loading level: 31%
+[2024-10-21 20:31:07] Loading level: 36%
+[2024-10-21 20:31:07] Loading level: 42%
+[2024-10-21 20:31:07] Loading level: 47%
+[2024-10-21 20:31:07] Loading level: 52%
+[2024-10-21 20:31:07] Loading level: 57%
+[2024-10-21 20:31:07] Loading level: 63%
+[2024-10-21 20:31:07] Found 4096 foliage v2 tiles
+[2024-10-21 20:31:07] Found 4 foliage used assets in header
+[2024-10-21 20:31:07] Loading 16 landscape tiles
+[2024-10-21 20:31:08] Loading level: 68%
+[2024-10-21 20:31:08] Auto converting legacy volumes
+[2024-10-21 20:31:08] Auto converting legacy nodes
+[2024-10-21 20:31:08] Loading level: 73%
+[2024-10-21 20:31:08] Loading level: 89%
+[2024-10-21 20:31:08] Loading level: 94%
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Skull"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Skull"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Skull"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Skull"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-21 20:31:09] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Skull"
+[2024-10-21 20:31:09] //////////////////////////////////////////////////////
+[2024-10-21 20:31:09] Server Code: 85568392931804987
+[2024-10-21 20:31:09] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[2024-10-21 20:31:09] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[2024-10-21 20:31:09] //////////////////////////////////////////////////////
+[2024-10-21 20:31:09] Loaded date counter: 97
+[2024-10-21 20:31:09] Loaded weather HeavyRain forecast in 1040.807 seconds
+[2024-10-21 20:31:09] Level "Washington" not using hardcoded special events
+[2024-10-21 20:31:09] Loading level: 100%
+[2024-10-21 20:31:14] Added 76561198075897932[0] "Captain Fatbelly" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:31:14] Sending verification request to queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-21 20:31:14] Received authentication request from queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-21 20:31:14] Submitted Steam authentication request for queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-21 20:31:16] Accepting queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-21 20:31:16] BattlEye Print: Player #0 Captain Fatbelly (73.157.85.166:57663) connected
+[2024-10-21 20:31:16] BattlEye Print: Player #0 Captain Fatbelly - BE GUID: c1ca7724d3c334fc7ddccc805cf4b2f3
+[2024-10-21 20:31:16] Connecting: PlayerID: 76561198075897932 Name: Captain Fatbelly Character: Capt. Fatbelly
+[2024-10-21 20:31:16] BattlEye Print: Connected to BE Master
+[2024-10-21 20:31:24] Failed to give item with cheats disabled.
+[2024-10-21 20:31:25] Added 76561198852986574[0] "MasterNickTicklesYou" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:31:25] Sending verification request to queued player 76561198852986574[0] "MasterNickTicklesYou"
+[2024-10-21 20:31:25] Received authentication request from queued player 76561198852986574[0] "MasterNickTicklesYou"
+[2024-10-21 20:31:25] Submitted Steam authentication request for queued player 76561198852986574[0] "MasterNickTicklesYou"
+[2024-10-21 20:31:26] Accepting queued player 76561198852986574[0] "MasterNickTicklesYou"
+[2024-10-21 20:31:26] BattlEye Print: Player #1 MasterNickTicklesYou (67.180.134.217:57580) connected
+[2024-10-21 20:31:26] BattlEye Print: Player #1 MasterNickTicklesYou - BE GUID: 8eefa51ca05503b871601a5b8aa471d7
+[2024-10-21 20:31:26] Connecting: PlayerID: 76561198852986574 Name: MasterNickTicklesYou Character: juk876roblox
+[2024-10-21 20:31:28] Successfully teleported Captain Fatbelly to waypoint!
+[2024-10-21 20:31:58] Added 76561198042801369[0] "clem" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:31:58] Sending verification request to queued player 76561198042801369[0] "clem"
+[2024-10-21 20:31:58] Received authentication request from queued player 76561198042801369[0] "clem"
+[2024-10-21 20:31:58] Submitted Steam authentication request for queued player 76561198042801369[0] "clem"
+[2024-10-21 20:31:58] Submitted Steam group request for queued player 76561198042801369[0] "clem"
+[2024-10-21 20:32:00] Accepting queued player 76561198042801369[0] "clem"
+[2024-10-21 20:32:00] BattlEye Print: Player #2 clem (72.74.187.219:60771) connected
+[2024-10-21 20:32:00] BattlEye Print: Player #2 clem - BE GUID: cabbc0a57f5a2605a8cb1270bdd6c17c
+[2024-10-21 20:32:00] Connecting: PlayerID: 76561198042801369 Name: clem Character: Clem
+[2024-10-21 20:32:37] 76561198075897932[0] "Captain Fatbelly" turned on spectator stats overlay admin mode
+[2024-10-21 20:32:46] Successfully teleported Captain Fatbelly to waypoint!
+[2024-10-21 20:32:49] 76561198075897932[0] "Captain Fatbelly" entered freecam admin mode
+[2024-10-21 20:32:52] Added 76561199632383624[0] "WEREWOLF_GAMES" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:32:52] Sending verification request to queued player 76561199632383624[0] "WEREWOLF_GAMES"
+[2024-10-21 20:32:52] Received authentication request from queued player 76561199632383624[0] "WEREWOLF_GAMES"
+[2024-10-21 20:32:52] Submitted Steam authentication request for queued player 76561199632383624[0] "WEREWOLF_GAMES"
+[2024-10-21 20:32:53] Accepting queued player 76561199632383624[0] "WEREWOLF_GAMES"
+[2024-10-21 20:32:53] BattlEye Print: Player #3 WEREWOLF_GAMES (63.201.27.47:59493) connected
+[2024-10-21 20:32:53] BattlEye Print: Player #3 WEREWOLF_GAMES - BE GUID: 806f4370743a5d62cb705f27575c5d56
+[2024-10-21 20:32:53] Connecting: PlayerID: 76561199632383624 Name: WEREWOLF_GAMES Character: WEREWOLF_GAMES
+[2024-10-21 20:34:56] 76561198075897932[0] "Captain Fatbelly" exited freecam admin mode
+[2024-10-21 20:35:19] Kicking player 76561198075897932 because "unspecified"
+[2024-10-21 20:35:19] BattlEye Print: Player #0 Captain Fatbelly disconnected
+[2024-10-21 20:35:19] Successfully kicked Captain Fatbelly!
+[2024-10-21 20:39:50] Added 76561199794082316[0] "zaxarich" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:39:50] Sending verification request to queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 20:39:50] Received authentication request from queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 20:39:50] Submitted Steam authentication request for queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 20:39:51] Accepting queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 20:39:51] BattlEye Print: Player #4 zaxarich (72.74.187.219:49812) connected
+[2024-10-21 20:39:51] BattlEye Print: Player #4 zaxarich - BE GUID: 86070c5ae6b2457967a96b056baf281c
+[2024-10-21 20:39:51] Connecting: PlayerID: 76561199794082316 Name: zaxarich Character: zaxarich
+[2024-10-21 20:40:24] Successfully saved the game.
+[2024-10-21 20:41:54] Removing player steamid:76561199794082316 after graceful disconnect message
+[2024-10-21 20:41:54] Disconnecting: PlayerID: 76561199794082316 Name: zaxarich Character: zaxarich
+[2024-10-21 20:41:54] BattlEye Print: Player #4 zaxarich disconnected
+[2024-10-21 20:43:02] Removing player steamid:76561198042801369 after graceful disconnect message
+[2024-10-21 20:43:02] Disconnecting: PlayerID: 76561198042801369 Name: clem Character: Clem
+[2024-10-21 20:43:02] BattlEye Print: Player #2 clem disconnected
+[2024-10-21 20:48:30] Weather HeavyRain starting for 966.39 seconds
+[2024-10-21 20:50:23] Successfully saved the game.
+[2024-10-21 20:56:18] Added 76561199101450707[0] "aybro" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:56:18] Sending verification request to queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:56:18] Received authentication request from queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:56:18] Submitted Steam authentication request for queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:56:18] Submitted Steam group request for queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:56:19] Accepting queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:56:19] BattlEye Print: Player #4 aybro (75.183.0.38:61961) connected
+[2024-10-21 20:56:19] BattlEye Print: Player #4 aybro - BE GUID: b5f2e23825f61b348d56aeb813bff1db
+[2024-10-21 20:56:19] Connecting: PlayerID: 76561199101450707 Name: aybro Character: [RPT]aybro
+[2024-10-21 20:57:07] Removing player steamid:76561199101450707 after graceful disconnect message
+[2024-10-21 20:57:07] Disconnecting: PlayerID: 76561199101450707 Name: aybro Character: [RPT]aybro
+[2024-10-21 20:57:07] BattlEye Print: Player #4 aybro disconnected
+[2024-10-21 20:57:08] Added 76561199521953971[0] "El patron" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:57:08] Sending verification request to queued player 76561199521953971[0] "El patron"
+[2024-10-21 20:57:09] Received authentication request from queued player 76561199521953971[0] "El patron"
+[2024-10-21 20:57:09] Submitted Steam authentication request for queued player 76561199521953971[0] "El patron"
+[2024-10-21 20:57:10] Accepting queued player 76561199521953971[0] "El patron"
+[2024-10-21 20:57:10] BattlEye Print: Player #4 El patron (38.25.5.62:29288) connected
+[2024-10-21 20:57:10] BattlEye Print: Player #4 El patron - BE GUID: 6d8abdfdcdd6b7296bbad9585a3d7129
+[2024-10-21 20:57:10] Connecting: PlayerID: 76561199521953971 Name: El patron Character: negro anales
+[2024-10-21 20:58:22] Added 76561199101450707[0] "aybro" to queue position 0 (shouldVerify: True)
+[2024-10-21 20:58:22] Sending verification request to queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:58:22] Received authentication request from queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:58:22] Submitted Steam authentication request for queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:58:22] Submitted Steam group request for queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:58:23] Accepting queued player 76561199101450707[0] "aybro"
+[2024-10-21 20:58:23] BattlEye Print: Player #5 aybro (75.183.0.38:59276) connected
+[2024-10-21 20:58:23] BattlEye Print: Player #5 aybro - BE GUID: b5f2e23825f61b348d56aeb813bff1db
+[2024-10-21 20:58:23] Connecting: PlayerID: 76561199101450707 Name: aybro Character: [RPT]aybro
+[2024-10-21 20:59:12] Removing player steamid:76561199101450707 after graceful disconnect message
+[2024-10-21 20:59:12] Disconnecting: PlayerID: 76561199101450707 Name: aybro Character: [RPT]aybro
+[2024-10-21 20:59:12] BattlEye Print: Player #5 aybro disconnected
+[2024-10-21 21:00:11] Successfully saved the game.
+[2024-10-21 21:00:39] Incremented date counter: 98
+[2024-10-21 21:01:33] Removing player steamid:76561199521953971 after graceful disconnect message
+[2024-10-21 21:01:33] Disconnecting: PlayerID: 76561199521953971 Name: El patron Character: negro anales
+[2024-10-21 21:01:33] BattlEye Print: Player #4 El patron disconnected
+[2024-10-21 21:04:36] Weather HeavyRain ending
+[2024-10-21 21:04:36] Weather DefaultRain forecast in 8682.066 seconds
+[2024-10-21 21:05:07] Added 76561199756574735[0] "xzavier.fleck" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:05:07] Sending verification request to queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-21 21:05:07] Received authentication request from queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-21 21:05:07] Submitted Steam authentication request for queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-21 21:05:09] Accepting queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-21 21:05:09] BattlEye Print: Player #4 xzavier.fleck (170.203.207.250:43275) connected
+[2024-10-21 21:05:09] BattlEye Print: Player #4 xzavier.fleck - BE GUID: fae0da6a29767d658c6953e44be39b12
+[2024-10-21 21:05:09] Connecting: PlayerID: 76561199756574735 Name: xzavier.fleck Character: Xzavier
+[2024-10-21 21:10:21] Successfully saved the game.
+[2024-10-21 21:10:40] Added 76561199521953971[0] "El patron" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:10:40] Sending verification request to queued player 76561199521953971[0] "El patron"
+[2024-10-21 21:10:40] Received authentication request from queued player 76561199521953971[0] "El patron"
+[2024-10-21 21:10:40] Submitted Steam authentication request for queued player 76561199521953971[0] "El patron"
+[2024-10-21 21:10:41] Accepting queued player 76561199521953971[0] "El patron"
+[2024-10-21 21:10:41] BattlEye Print: Player #5 El patron (38.25.5.62:27027) connected
+[2024-10-21 21:10:41] BattlEye Print: Player #5 El patron - BE GUID: 6d8abdfdcdd6b7296bbad9585a3d7129
+[2024-10-21 21:10:41] Connecting: PlayerID: 76561199521953971 Name: El patron Character: negro anales
+[2024-10-21 21:11:45] Added 76561199196286440[0] "maktub" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:11:45] Sending verification request to queued player 76561199196286440[0] "maktub"
+[2024-10-21 21:11:45] Received authentication request from queued player 76561199196286440[0] "maktub"
+[2024-10-21 21:11:45] Submitted Steam authentication request for queued player 76561199196286440[0] "maktub"
+[2024-10-21 21:11:46] Accepting queued player 76561199196286440[0] "maktub"
+[2024-10-21 21:11:46] BattlEye Print: Player #6 maktub (38.253.139.85:59351) connected
+[2024-10-21 21:11:46] BattlEye Print: Player #6 maktub - BE GUID: f3a8b128406eaecba1ae43e790578027
+[2024-10-21 21:11:46] Connecting: PlayerID: 76561199196286440 Name: maktub Character: rapihud
+[2024-10-21 21:12:30] Removing player steamid:76561199521953971 after graceful disconnect message
+[2024-10-21 21:12:30] Disconnecting: PlayerID: 76561199521953971 Name: El patron Character: negro anales
+[2024-10-21 21:12:30] BattlEye Print: Player #5 El patron disconnected
+[2024-10-21 21:13:37] Removing player steamid:76561199196286440 after graceful disconnect message
+[2024-10-21 21:13:37] Disconnecting: PlayerID: 76561199196286440 Name: maktub Character: rapihud
+[2024-10-21 21:13:37] BattlEye Print: Player #6 maktub disconnected
+[2024-10-21 21:16:54] Added 76561199748963391[0] "Graywolf_25" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:16:54] Sending verification request to queued player 76561199748963391[0] "Graywolf_25"
+[2024-10-21 21:16:55] Received authentication request from queued player 76561199748963391[0] "Graywolf_25"
+[2024-10-21 21:16:55] Submitted Steam authentication request for queued player 76561199748963391[0] "Graywolf_25"
+[2024-10-21 21:16:55] Submitted Steam group request for queued player 76561199748963391[0] "Graywolf_25"
+[2024-10-21 21:16:56] Accepting queued player 76561199748963391[0] "Graywolf_25"
+[2024-10-21 21:16:56] BattlEye Print: Player #5 Graywolf_25 (209.216.163.24:33083) connected
+[2024-10-21 21:16:56] BattlEye Print: Player #5 Graywolf_25 - BE GUID: 435c3be7c7281edf0cf40f452edf0c46
+[2024-10-21 21:16:56] Connecting: PlayerID: 76561199748963391 Name: Graywolf_25 Character: Greyfox 25
+[2024-10-21 21:16:56] Added 76561199563077761[0] "griffball2012" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:16:56] Sending verification request to queued player 76561199563077761[0] "griffball2012"
+[2024-10-21 21:16:56] Received authentication request from queued player 76561199563077761[0] "griffball2012"
+[2024-10-21 21:16:56] Submitted Steam authentication request for queued player 76561199563077761[0] "griffball2012"
+[2024-10-21 21:16:58] Accepting queued player 76561199563077761[0] "griffball2012"
+[2024-10-21 21:16:58] BattlEye Print: Player #6 griffball2012 (216.150.113.250:7409) connected
+[2024-10-21 21:16:58] BattlEye Print: Player #6 griffball2012 - BE GUID: a85453513d79055bb9f60e0b9670e6f1
+[2024-10-21 21:16:58] Connecting: PlayerID: 76561199563077761 Name: griffball2012 Character: griffball2012
+[2024-10-21 21:20:19] Successfully saved the game.
+[2024-10-21 21:24:56] Added 76561199588997864[0] "TheMilkMan7640" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:24:56] Sending verification request to queued player 76561199588997864[0] "TheMilkMan7640"
+[2024-10-21 21:24:56] Received authentication request from queued player 76561199588997864[0] "TheMilkMan7640"
+[2024-10-21 21:24:56] Submitted Steam authentication request for queued player 76561199588997864[0] "TheMilkMan7640"
+[2024-10-21 21:24:57] Accepting queued player 76561199588997864[0] "TheMilkMan7640"
+[2024-10-21 21:24:57] BattlEye Print: Player #7 TheMilkMan7640 (108.86.228.21:50822) connected
+[2024-10-21 21:24:57] BattlEye Print: Player #7 TheMilkMan7640 - BE GUID: 6109474b5118f451c09affdf7de7627e
+[2024-10-21 21:24:57] Connecting: PlayerID: 76561199588997864 Name: TheMilkMan7640 Character: TheMilkMan7640
+[2024-10-21 21:24:57] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "TheMilkMan7640 [TheMilkMan7640]/Third/Skeleton/Left_Hip/Left_Leg"
+[2024-10-21 21:24:57] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "TheMilkMan7640 [TheMilkMan7640]/Third/Skeleton/Right_Hip/Right_Leg"
+[2024-10-21 21:24:57] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "TheMilkMan7640 [TheMilkMan7640]/Third/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-21 21:24:57] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "TheMilkMan7640 [TheMilkMan7640]/Third/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-21 21:24:57] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "TheMilkMan7640 [TheMilkMan7640]/Third/Skeleton/Spine/Skull"
+[2024-10-21 21:24:57] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "TheMilkMan7640 [TheMilkMan7640]/Third/Skeleton/Spine"
+[2024-10-21 21:26:32] Removing player steamid:76561199588997864 after graceful disconnect message
+[2024-10-21 21:26:32] Disconnecting: PlayerID: 76561199588997864 Name: TheMilkMan7640 Character: TheMilkMan7640
+[2024-10-21 21:26:32] BattlEye Print: Player #7 TheMilkMan7640 disconnected
+[2024-10-21 21:29:43] Removing player steamid:76561199632383624 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-21 21:29:43] Disconnecting: PlayerID: 76561199632383624 Name: WEREWOLF_GAMES Character: WEREWOLF_GAMES
+[2024-10-21 21:29:43] BattlEye Print: Player #3 WEREWOLF_GAMES disconnected
+[2024-10-21 21:30:26] Successfully saved the game.
+[2024-10-21 21:32:25] Removing player steamid:76561199563077761 after graceful disconnect message
+[2024-10-21 21:32:25] Disconnecting: PlayerID: 76561199563077761 Name: griffball2012 Character: griffball2012
+[2024-10-21 21:32:25] BattlEye Print: Player #6 griffball2012 disconnected
+[2024-10-21 21:33:20] Added 76561198042801369[0] "clem" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:33:20] Sending verification request to queued player 76561198042801369[0] "clem"
+[2024-10-21 21:33:20] Received authentication request from queued player 76561198042801369[0] "clem"
+[2024-10-21 21:33:20] Submitted Steam authentication request for queued player 76561198042801369[0] "clem"
+[2024-10-21 21:33:20] Submitted Steam group request for queued player 76561198042801369[0] "clem"
+[2024-10-21 21:33:21] Accepting queued player 76561198042801369[0] "clem"
+[2024-10-21 21:33:21] BattlEye Print: Player #6 clem (72.74.187.219:62067) connected
+[2024-10-21 21:33:21] BattlEye Print: Player #6 clem - BE GUID: cabbc0a57f5a2605a8cb1270bdd6c17c
+[2024-10-21 21:33:21] Connecting: PlayerID: 76561198042801369 Name: clem Character: Clem
+[2024-10-21 21:34:32] Added 76561199794082316[0] "zaxarich" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:34:32] Sending verification request to queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:34:32] Received authentication request from queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:34:32] Submitted Steam authentication request for queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:34:33] Accepting queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:34:33] BattlEye Print: Player #7 zaxarich (72.74.187.219:61351) connected
+[2024-10-21 21:34:33] BattlEye Print: Player #7 zaxarich - BE GUID: 86070c5ae6b2457967a96b056baf281c
+[2024-10-21 21:34:33] Connecting: PlayerID: 76561199794082316 Name: zaxarich Character: zaxarich
+[2024-10-21 21:36:31] Removing player steamid:76561199794082316 after graceful disconnect message
+[2024-10-21 21:36:31] Disconnecting: PlayerID: 76561199794082316 Name: zaxarich Character: zaxarich
+[2024-10-21 21:36:31] BattlEye Print: Player #7 zaxarich disconnected
+[2024-10-21 21:40:13] Successfully saved the game.
+[2024-10-21 21:42:10] BattlEye Print: Failed to receive from BE Master (0)
+[2024-10-21 21:42:10] BattlEye Print: Disconnected from BE Master
+[2024-10-21 21:43:00] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:43:00] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:43:00] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:43:01] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:44:06] BattlEye Print: Connected to BE Master
+[2024-10-21 21:44:10] Added 76561198988597068[0] "ganont" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:44:10] Sending verification request to queued player 76561198988597068[0] "ganont"
+[2024-10-21 21:44:10] Received authentication request from queued player 76561198988597068[0] "ganont"
+[2024-10-21 21:44:10] Submitted Steam authentication request for queued player 76561198988597068[0] "ganont"
+[2024-10-21 21:44:12] Accepting queued player 76561198988597068[0] "ganont"
+[2024-10-21 21:44:12] BattlEye Print: Player #7 ganont (73.96.210.159:58062) connected
+[2024-10-21 21:44:12] BattlEye Print: Player #7 ganont - BE GUID: 6a3bb538796267a315830622e6cb8dd8
+[2024-10-21 21:44:12] Connecting: PlayerID: 76561198988597068 Name: ganont Character: ganont
+[2024-10-21 21:46:51] Added 76561199794082316[0] "zaxarich" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:46:51] Sending verification request to queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:46:51] Received authentication request from queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:46:51] Submitted Steam authentication request for queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:46:52] Accepting queued player 76561199794082316[0] "zaxarich"
+[2024-10-21 21:46:52] BattlEye Print: Player #8 zaxarich (72.74.187.219:50331) connected
+[2024-10-21 21:46:52] BattlEye Print: Player #8 zaxarich - BE GUID: 86070c5ae6b2457967a96b056baf281c
+[2024-10-21 21:46:52] Connecting: PlayerID: 76561199794082316 Name: zaxarich Character: zaxarich
+[2024-10-21 21:47:08] BattlEye Print: Failed to receive from BE Master (0)
+[2024-10-21 21:47:08] BattlEye Print: Disconnected from BE Master
+[2024-10-21 21:47:58] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:47:58] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:47:58] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:47:58] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:47:58] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:47:58] BattlEye Print: Master query timed out, no response from BE Master
+[2024-10-21 21:49:03] BattlEye Print: Connected to BE Master
+[2024-10-21 21:49:05] Removing player steamid:76561199794082316 after graceful disconnect message
+[2024-10-21 21:49:05] Disconnecting: PlayerID: 76561199794082316 Name: zaxarich Character: zaxarich
+[2024-10-21 21:49:05] BattlEye Print: Player #8 zaxarich disconnected
+[2024-10-21 21:50:19] Successfully saved the game.
+[2024-10-21 21:56:24] Added 76561199500065449[0] "Toji" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:56:24] Sending verification request to queued player 76561199500065449[0] "Toji"
+[2024-10-21 21:56:25] Received authentication request from queued player 76561199500065449[0] "Toji"
+[2024-10-21 21:56:25] Submitted Steam authentication request for queued player 76561199500065449[0] "Toji"
+[2024-10-21 21:56:25] Submitted Steam group request for queued player 76561199500065449[0] "Toji"
+[2024-10-21 21:56:26] Accepting queued player 76561199500065449[0] "Toji"
+[2024-10-21 21:56:26] BattlEye Print: Player #8 Toji (111.125.107.39:3633) connected
+[2024-10-21 21:56:26] BattlEye Print: Player #8 Toji - BE GUID: 756a1456c2d167895a2eb3d888ab60d4
+[2024-10-21 21:56:26] Connecting: PlayerID: 76561199500065449 Name: Toji Character: Diff
+[2024-10-21 21:59:20] Added 76561199681418131[0] "Allenplayzvr" to queue position 0 (shouldVerify: True)
+[2024-10-21 21:59:20] Sending verification request to queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 21:59:20] Received authentication request from queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 21:59:20] Submitted Steam authentication request for queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 21:59:21] Accepting queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 21:59:21] BattlEye Print: Player #9 Allenplayzvr (170.203.213.198:34948) connected
+[2024-10-21 21:59:21] BattlEye Print: Player #9 Allenplayzvr - BE GUID: 47bd6d7673e4bd597efdd7aa39d0964e
+[2024-10-21 21:59:21] Connecting: PlayerID: 76561199681418131 Name: Allenplayzvr Character: Allenplayzvr
+[2024-10-21 22:00:05] Player finished session: 76561198042801369
+[2024-10-21 22:00:05] Disconnecting: PlayerID: 76561198042801369 Name: clem Character: Clem
+[2024-10-21 22:00:05] BattlEye Print: Player #6 clem disconnected
+[2024-10-21 22:00:05] Added 76561198187028094[0] "Sunny" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:00:05] Sending verification request to queued player 76561198187028094[0] "Sunny"
+[2024-10-21 22:00:05] Received authentication request from queued player 76561198187028094[0] "Sunny"
+[2024-10-21 22:00:05] Submitted Steam authentication request for queued player 76561198187028094[0] "Sunny"
+[2024-10-21 22:00:06] Accepting queued player 76561198187028094[0] "Sunny"
+[2024-10-21 22:00:06] BattlEye Print: Player #10 Sunny (159.250.17.243:52374) connected
+[2024-10-21 22:00:06] BattlEye Print: Player #10 Sunny - BE GUID: 7047724e3a14f01e14e1789bd9e99cda
+[2024-10-21 22:00:06] Connecting: PlayerID: 76561198187028094 Name: Sunny Character: Sunny
+[2024-10-21 22:00:23] Successfully saved the game.
+[2024-10-21 22:00:39] Incremented date counter: 99
+[2024-10-21 22:02:51] Added 76561198374777512[0] "Sandy Cheeks" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:02:51] Sending verification request to queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-21 22:02:52] Received authentication request from queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-21 22:02:52] Submitted Steam authentication request for queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-21 22:02:52] Submitted Steam group request for queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-21 22:02:53] Accepting queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-21 22:02:53] BattlEye Print: Player #11 Sandy Cheeks (207.254.164.44:59121) connected
+[2024-10-21 22:02:53] BattlEye Print: Player #11 Sandy Cheeks - BE GUID: 47175d21e7f95e68f2d64310303366dd
+[2024-10-21 22:02:53] Connecting: PlayerID: 76561198374777512 Name: Sandy Cheeks Character: LampShade
+[2024-10-21 22:03:13] Added 76561198042801369[0] "clem" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:03:13] Sending verification request to queued player 76561198042801369[0] "clem"
+[2024-10-21 22:03:13] Received authentication request from queued player 76561198042801369[0] "clem"
+[2024-10-21 22:03:13] Submitted Steam authentication request for queued player 76561198042801369[0] "clem"
+[2024-10-21 22:03:13] Submitted Steam group request for queued player 76561198042801369[0] "clem"
+[2024-10-21 22:03:14] Accepting queued player 76561198042801369[0] "clem"
+[2024-10-21 22:03:14] BattlEye Print: Player #12 clem (72.74.187.219:62819) connected
+[2024-10-21 22:03:14] BattlEye Print: Player #12 clem - BE GUID: cabbc0a57f5a2605a8cb1270bdd6c17c
+[2024-10-21 22:03:14] Connecting: PlayerID: 76561198042801369 Name: clem Character: Clem
+[2024-10-21 22:04:50] Removing player steamid:76561199756574735 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-21 22:04:50] Disconnecting: PlayerID: 76561199756574735 Name: xzavier.fleck Character: Xzavier
+[2024-10-21 22:04:50] BattlEye Print: Player #4 xzavier.fleck disconnected
+[2024-10-21 22:08:12] Added 76561199561452531[0] "Captain_Froggg" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:08:12] Sending verification request to queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:08:12] Received authentication request from queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:08:12] Submitted Steam authentication request for queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:08:13] Accepting queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:08:13] BattlEye Print: Player #13 Captain_Froggg (24.18.219.45:50684) connected
+[2024-10-21 22:08:13] BattlEye Print: Player #13 Captain_Froggg - BE GUID: 73112e430b1de70b09471bb293327870
+[2024-10-21 22:08:13] Connecting: PlayerID: 76561199561452531 Name: Captain_Froggg Character: Captain_Froggg
+[2024-10-21 22:08:43] Kicking steamid:76561199561452531 after 30.00146 s without message
+[2024-10-21 22:08:43] Disconnecting: PlayerID: 76561199561452531 Name: Captain_Froggg Character: Captain_Froggg
+[2024-10-21 22:08:43] BattlEye Print: Player #13 Captain_Froggg disconnected
+[2024-10-21 22:10:12] Successfully saved the game.
+[2024-10-21 22:19:01] Added 76561199176312779[0] "fashonium" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:19:01] Sending verification request to queued player 76561199176312779[0] "fashonium"
+[2024-10-21 22:19:01] Received authentication request from queued player 76561199176312779[0] "fashonium"
+[2024-10-21 22:19:01] Submitted Steam authentication request for queued player 76561199176312779[0] "fashonium"
+[2024-10-21 22:19:01] Submitted Steam group request for queued player 76561199176312779[0] "fashonium"
+[2024-10-21 22:19:03] Accepting queued player 76561199176312779[0] "fashonium"
+[2024-10-21 22:19:03] BattlEye Print: Player #13 fashonium (73.7.47.49:55040) connected
+[2024-10-21 22:19:03] BattlEye Print: Player #13 fashonium - BE GUID: 6f8892c69ac9df3fedee06d185dddf59
+[2024-10-21 22:19:03] Connecting: PlayerID: 76561199176312779 Name: fashonium Character: wonderfultime
+[2024-10-21 22:20:19] Successfully saved the game.
+[2024-10-21 22:26:13] Added 76561198384818207[0] "THE COMBAT CROWBAR" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:26:13] Sending verification request to queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 22:26:14] Received authentication request from queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 22:26:14] Submitted Steam authentication request for queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 22:26:15] Accepting queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 22:26:15] BattlEye Print: Player #14 THE COMBAT CROWBAR (185.190.92.131:59340) connected
+[2024-10-21 22:26:15] BattlEye Print: Player #14 THE COMBAT CROWBAR - BE GUID: 894ba6d22c4931dede9bfb2ad94d21ca
+[2024-10-21 22:26:15] Connecting: PlayerID: 76561198384818207 Name: THE COMBAT CROWBAR Character: Wild Will
+[2024-10-21 22:27:05] Removing player steamid:76561199681418131 after graceful disconnect message
+[2024-10-21 22:27:05] Disconnecting: PlayerID: 76561199681418131 Name: Allenplayzvr Character: Allenplayzvr
+[2024-10-21 22:27:05] BattlEye Print: Player #9 Allenplayzvr disconnected
+[2024-10-21 22:30:23] Successfully saved the game.
+[2024-10-21 22:31:15] Added 76561198283150716[0] "Crepes" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:31:15] Sending verification request to queued player 76561198283150716[0] "Crepes"
+[2024-10-21 22:31:15] Received authentication request from queued player 76561198283150716[0] "Crepes"
+[2024-10-21 22:31:15] Submitted Steam authentication request for queued player 76561198283150716[0] "Crepes"
+[2024-10-21 22:31:17] Accepting queued player 76561198283150716[0] "Crepes"
+[2024-10-21 22:31:17] BattlEye Print: Player #15 Crepes (85.138.7.171:53656) connected
+[2024-10-21 22:31:17] BattlEye Print: Player #15 Crepes - BE GUID: 1d2b07cc55ade1c44450a987e7db3981
+[2024-10-21 22:31:17] Connecting: PlayerID: 76561198283150716 Name: Crepes Character: Crepes
+[2024-10-21 22:34:41] Removing player steamid:76561199176312779 after graceful disconnect message
+[2024-10-21 22:34:41] Disconnecting: PlayerID: 76561199176312779 Name: fashonium Character: wonderfultime
+[2024-10-21 22:34:41] BattlEye Print: Player #13 fashonium disconnected
+[2024-10-21 22:39:44] Added 76561198982990207[0] "no homo L" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:39:44] Sending verification request to queued player 76561198982990207[0] "no homo L"
+[2024-10-21 22:39:45] Received authentication request from queued player 76561198982990207[0] "no homo L"
+[2024-10-21 22:39:45] Submitted Steam authentication request for queued player 76561198982990207[0] "no homo L"
+[2024-10-21 22:39:46] Accepting queued player 76561198982990207[0] "no homo L"
+[2024-10-21 22:39:46] BattlEye Print: Player #16 no homo L (38.77.242.59:49438) connected
+[2024-10-21 22:39:46] BattlEye Print: Player #16 no homo L - BE GUID: e5242fe64d61efd36d15d22ab6f421ef
+[2024-10-21 22:39:46] Connecting: PlayerID: 76561198982990207 Name: no homo L Character: aceu
+[2024-10-21 22:40:01] Removing player steamid:76561198374777512 after graceful disconnect message
+[2024-10-21 22:40:01] Disconnecting: PlayerID: 76561198374777512 Name: Sandy Cheeks Character: LampShade
+[2024-10-21 22:40:01] BattlEye Print: Player #11 Sandy Cheeks disconnected
+[2024-10-21 22:40:22] Successfully saved the game.
+[2024-10-21 22:44:47] Added 76561198267242994[0] "rwe-fanatic77" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:44:47] Sending verification request to queued player 76561198267242994[0] "rwe-fanatic77"
+[2024-10-21 22:44:47] Received authentication request from queued player 76561198267242994[0] "rwe-fanatic77"
+[2024-10-21 22:44:47] Submitted Steam authentication request for queued player 76561198267242994[0] "rwe-fanatic77"
+[2024-10-21 22:44:49] Accepting queued player 76561198267242994[0] "rwe-fanatic77"
+[2024-10-21 22:44:49] BattlEye Print: Player #17 rwe-fanatic77 (78.42.136.76:62309) connected
+[2024-10-21 22:44:49] BattlEye Print: Player #17 rwe-fanatic77 - BE GUID: 1de1a4c8a649842f6fe1a12501e0e6b9
+[2024-10-21 22:44:49] Connecting: PlayerID: 76561198267242994 Name: rwe-fanatic77 Character: rwe-fanatic77
+[2024-10-21 22:50:12] Successfully saved the game.
+[2024-10-21 22:52:30] Removing player steamid:76561198982990207 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-21 22:52:30] Disconnecting: PlayerID: 76561198982990207 Name: no homo L Character: aceu
+[2024-10-21 22:52:30] BattlEye Print: Player #16 no homo L disconnected
+[2024-10-21 22:53:59] Added 76561199681418131[0] "Allenplayzvr" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:53:59] Sending verification request to queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 22:53:59] Received authentication request from queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 22:53:59] Submitted Steam authentication request for queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 22:54:00] Accepting queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-21 22:54:00] BattlEye Print: Player #18 Allenplayzvr (170.203.213.198:36230) connected
+[2024-10-21 22:54:00] BattlEye Print: Player #18 Allenplayzvr - BE GUID: 47bd6d7673e4bd597efdd7aa39d0964e
+[2024-10-21 22:54:00] Connecting: PlayerID: 76561199681418131 Name: Allenplayzvr Character: Allenplayzvr
+[2024-10-21 22:55:24] Added 76561199561452531[0] "Captain_Froggg" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:55:24] Sending verification request to queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:55:24] Received authentication request from queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:55:24] Submitted Steam authentication request for queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:55:25] Accepting queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-21 22:55:25] BattlEye Print: Player #19 Captain_Froggg (24.18.219.45:50822) connected
+[2024-10-21 22:55:25] BattlEye Print: Player #19 Captain_Froggg - BE GUID: 73112e430b1de70b09471bb293327870
+[2024-10-21 22:55:25] Connecting: PlayerID: 76561199561452531 Name: Captain_Froggg Character: Captain_Froggg
+[2024-10-21 22:55:25] Added 76561198310952079[0] "Peachy" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:55:25] Sending verification request to queued player 76561198310952079[0] "Peachy"
+[2024-10-21 22:55:25] Received authentication request from queued player 76561198310952079[0] "Peachy"
+[2024-10-21 22:55:25] Submitted Steam authentication request for queued player 76561198310952079[0] "Peachy"
+[2024-10-21 22:55:25] Submitted Steam group request for queued player 76561198310952079[0] "Peachy"
+[2024-10-21 22:55:26] Accepting queued player 76561198310952079[0] "Peachy"
+[2024-10-21 22:55:26] BattlEye Print: Player #20 Peachy (196.3.204.207:53690) connected
+[2024-10-21 22:55:26] BattlEye Print: Player #20 Peachy - BE GUID: 43e416b0d115aaef40b846a52c900015
+[2024-10-21 22:55:26] Connecting: PlayerID: 76561198310952079 Name: Peachy Character: skullord
+[2024-10-21 22:58:51] Added 76561199408728347[0] "caydio9099" to queue position 0 (shouldVerify: True)
+[2024-10-21 22:58:51] Sending verification request to queued player 76561199408728347[0] "caydio9099"
+[2024-10-21 22:58:51] Received authentication request from queued player 76561199408728347[0] "caydio9099"
+[2024-10-21 22:58:51] Submitted Steam authentication request for queued player 76561199408728347[0] "caydio9099"
+[2024-10-21 22:58:53] Accepting queued player 76561199408728347[0] "caydio9099"
+[2024-10-21 22:58:53] BattlEye Print: Player #21 caydio9099 (74.214.138.116:62887) connected
+[2024-10-21 22:58:53] BattlEye Print: Player #21 caydio9099 - BE GUID: d19fee632147e00bb87de601157dfa61
+[2024-10-21 22:58:53] Connecting: PlayerID: 76561199408728347 Name: caydio9099 Character: caydio9099
+[2024-10-21 23:00:14] Successfully saved the game.
+[2024-10-21 23:00:19] Removing player steamid:76561198267242994 after graceful disconnect message
+[2024-10-21 23:00:19] Disconnecting: PlayerID: 76561198267242994 Name: rwe-fanatic77 Character: rwe-fanatic77
+[2024-10-21 23:00:19] BattlEye Print: Player #17 rwe-fanatic77 disconnected
+[2024-10-21 23:00:39] Incremented date counter: 100
+[2024-10-21 23:01:15] Kicking steamid:76561198384818207 after 30.00586 s without message
+[2024-10-21 23:01:15] Disconnecting: PlayerID: 76561198384818207 Name: THE COMBAT CROWBAR Character: Wild Will
+[2024-10-21 23:01:15] BattlEye Print: Player #14 THE COMBAT CROWBAR disconnected
+[2024-10-21 23:04:09] Added 76561198228549580[0] "LuigiAndPug420" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:04:09] Sending verification request to queued player 76561198228549580[0] "LuigiAndPug420"
+[2024-10-21 23:04:09] Received authentication request from queued player 76561198228549580[0] "LuigiAndPug420"
+[2024-10-21 23:04:09] Submitted Steam authentication request for queued player 76561198228549580[0] "LuigiAndPug420"
+[2024-10-21 23:04:10] Accepting queued player 76561198228549580[0] "LuigiAndPug420"
+[2024-10-21 23:04:10] BattlEye Print: Player #22 LuigiAndPug420 (174.72.28.181:50870) connected
+[2024-10-21 23:04:10] BattlEye Print: Player #22 LuigiAndPug420 - BE GUID: 038005319b2693679a3849304733ab25
+[2024-10-21 23:04:10] Connecting: PlayerID: 76561198228549580 Name: LuigiAndPug420 Character: Luigi420
+[2024-10-21 23:06:39] Added 76561199060382935[0] "LilCeasersEmployee" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:06:39] Sending verification request to queued player 76561199060382935[0] "LilCeasersEmployee"
+[2024-10-21 23:06:39] Received authentication request from queued player 76561199060382935[0] "LilCeasersEmployee"
+[2024-10-21 23:06:39] Submitted Steam authentication request for queued player 76561199060382935[0] "LilCeasersEmployee"
+[2024-10-21 23:06:40] Accepting queued player 76561199060382935[0] "LilCeasersEmployee"
+[2024-10-21 23:06:40] BattlEye Print: Player #23 LilCeasersEmployee (71.28.227.194:60558) connected
+[2024-10-21 23:06:40] BattlEye Print: Player #23 LilCeasersEmployee - BE GUID: c44a0263c15d640622689323b1b288ee
+[2024-10-21 23:06:40] Connecting: PlayerID: 76561199060382935 Name: LilCeasersEmployee Character: LilCeasersEmployee
+[2024-10-21 23:10:20] Successfully saved the game.
+[2024-10-21 23:11:00] Added 76561199527063160[0] "SUCTION CUP MAN!" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:11:00] Sending verification request to queued player 76561199527063160[0] "SUCTION CUP MAN!"
+[2024-10-21 23:11:00] Received authentication request from queued player 76561199527063160[0] "SUCTION CUP MAN!"
+[2024-10-21 23:11:00] Submitted Steam authentication request for queued player 76561199527063160[0] "SUCTION CUP MAN!"
+[2024-10-21 23:11:01] Accepting queued player 76561199527063160[0] "SUCTION CUP MAN!"
+[2024-10-21 23:11:01] BattlEye Print: Player #24 SUCTION CUP MAN! (71.236.122.55:52463) connected
+[2024-10-21 23:11:01] BattlEye Print: Player #24 SUCTION CUP MAN! - BE GUID: c45d3508ca272ae7d6e7c947be024ba1
+[2024-10-21 23:11:01] Connecting: PlayerID: 76561199527063160 Name: SUCTION CUP MAN! Character: theidore noise
+[2024-10-21 23:19:51] Added 76561199708682314[0] "rck.funk" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:19:51] Sending verification request to queued player 76561199708682314[0] "rck.funk"
+[2024-10-21 23:19:51] Received authentication request from queued player 76561199708682314[0] "rck.funk"
+[2024-10-21 23:19:51] Submitted Steam authentication request for queued player 76561199708682314[0] "rck.funk"
+[2024-10-21 23:19:52] Accepting queued player 76561199708682314[0] "rck.funk"
+[2024-10-21 23:19:52] BattlEye Print: Player #25 rck.funk (179.94.173.248:60584) connected
+[2024-10-21 23:19:52] BattlEye Print: Player #25 rck.funk - BE GUID: d9b9ae1173335b0af188bab79d003d9a
+[2024-10-21 23:19:52] Connecting: PlayerID: 76561199708682314 Name: rck.funk Character: joaozinho da goiaba
+[2024-10-21 23:20:23] Successfully saved the game.
+[2024-10-21 23:23:41] Removing player steamid:76561199527063160 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-21 23:23:41] Disconnecting: PlayerID: 76561199527063160 Name: SUCTION CUP MAN! Character: theidore noise
+[2024-10-21 23:23:41] BattlEye Print: Player #24 SUCTION CUP MAN! disconnected
+[2024-10-21 23:25:17] Added 76561198384818207[0] "THE COMBAT CROWBAR" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:25:17] Sending verification request to queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 23:25:17] Received authentication request from queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 23:25:17] Submitted Steam authentication request for queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 23:25:19] Accepting queued player 76561198384818207[0] "THE COMBAT CROWBAR"
+[2024-10-21 23:25:19] BattlEye Print: Player #26 THE COMBAT CROWBAR (166.1.121.38:54393) connected
+[2024-10-21 23:25:19] BattlEye Print: Player #26 THE COMBAT CROWBAR - BE GUID: 894ba6d22c4931dede9bfb2ad94d21ca
+[2024-10-21 23:25:19] Connecting: PlayerID: 76561198384818207 Name: THE COMBAT CROWBAR Character: Wild Will
+[2024-10-21 23:25:37] Added 76561198022454208[0] "WW2018" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:25:37] Sending verification request to queued player 76561198022454208[0] "WW2018"
+[2024-10-21 23:25:38] Received authentication request from queued player 76561198022454208[0] "WW2018"
+[2024-10-21 23:25:38] Submitted Steam authentication request for queued player 76561198022454208[0] "WW2018"
+[2024-10-21 23:25:39] Accepting queued player 76561198022454208[0] "WW2018"
+[2024-10-21 23:25:39] BattlEye Print: Player #27 WW2018 (45.36.192.92:62275) connected
+[2024-10-21 23:25:39] BattlEye Print: Player #27 WW2018 - BE GUID: 653d18596e6bd63643d4e128642949fa
+[2024-10-21 23:25:39] Connecting: PlayerID: 76561198022454208 Name: WW2018 Character: Giant Cong
+[2024-10-21 23:25:48] Added 76561198174415883[0] "blainethetrain" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:25:48] Sending verification request to queued player 76561198174415883[0] "blainethetrain"
+[2024-10-21 23:25:48] Received authentication request from queued player 76561198174415883[0] "blainethetrain"
+[2024-10-21 23:25:48] Submitted Steam authentication request for queued player 76561198174415883[0] "blainethetrain"
+[2024-10-21 23:25:48] Submitted Steam group request for queued player 76561198174415883[0] "blainethetrain"
+[2024-10-21 23:25:49] Accepting queued player 76561198174415883[0] "blainethetrain"
+[2024-10-21 23:25:49] BattlEye Print: Player #28 blainethetrain (47.161.69.164:58819) connected
+[2024-10-21 23:25:49] BattlEye Print: Player #28 blainethetrain - BE GUID: d1fbabb7b440cd8dd2d99d514dfd0663
+[2024-10-21 23:25:49] Connecting: PlayerID: 76561198174415883 Name: blainethetrain Character: blainethetrain
+[2024-10-21 23:26:25] Added 76561198166043286[0] "Rigbone" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:26:25] Sending verification request to queued player 76561198166043286[0] "Rigbone"
+[2024-10-21 23:26:25] Received authentication request from queued player 76561198166043286[0] "Rigbone"
+[2024-10-21 23:26:25] Submitted Steam authentication request for queued player 76561198166043286[0] "Rigbone"
+[2024-10-21 23:26:25] Submitted Steam group request for queued player 76561198166043286[0] "Rigbone"
+[2024-10-21 23:26:26] Accepting queued player 76561198166043286[0] "Rigbone"
+[2024-10-21 23:26:26] BattlEye Print: Player #29 Rigbone (73.157.85.166:57740) connected
+[2024-10-21 23:26:26] BattlEye Print: Player #29 Rigbone - BE GUID: d880ec24dcb990d615a05eaafb0766a5
+[2024-10-21 23:26:26] Connecting: PlayerID: 76561198166043286 Name: Rigbone Character: Rigbone
+[2024-10-21 23:26:27] Removing player steamid:76561198283150716 after graceful disconnect message
+[2024-10-21 23:26:27] Disconnecting: PlayerID: 76561198283150716 Name: Crepes Character: Crepes
+[2024-10-21 23:26:27] BattlEye Print: Player #15 Crepes disconnected
+[2024-10-21 23:29:07] Removing player steamid:76561198310952079 after graceful disconnect message
+[2024-10-21 23:29:07] Disconnecting: PlayerID: 76561198310952079 Name: Peachy Character: skullord
+[2024-10-21 23:29:07] BattlEye Print: Player #20 Peachy disconnected
+[2024-10-21 23:29:17] Added 76561199700172826[0] "asianjaden" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:29:17] Sending verification request to queued player 76561199700172826[0] "asianjaden"
+[2024-10-21 23:29:17] Received authentication request from queued player 76561199700172826[0] "asianjaden"
+[2024-10-21 23:29:17] Submitted Steam authentication request for queued player 76561199700172826[0] "asianjaden"
+[2024-10-21 23:29:18] Accepting queued player 76561199700172826[0] "asianjaden"
+[2024-10-21 23:29:18] BattlEye Print: Player #30 asianjaden (173.207.65.94:60892) connected
+[2024-10-21 23:29:18] BattlEye Print: Player #30 asianjaden - BE GUID: fb41ca342da17ed8b433a6973fd446d2
+[2024-10-21 23:29:18] Connecting: PlayerID: 76561199700172826 Name: asianjaden Character: asianjaden
+[2024-10-21 23:29:22] Weather DefaultRain starting for 474.4471 seconds
+[2024-10-21 23:29:54] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-21 23:30:10] Successfully saved the game.
+[2024-10-21 23:30:33] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:32:07] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:37:00] Successfully taking a screenshot of Allenplayzvr.
+[2024-10-21 23:37:03] Successfully taking a screenshot of Allenplayzvr.
+[2024-10-21 23:37:06] Failed to find anyone called bed.
+[2024-10-21 23:37:12] Successfully teleported Rigbone to bed!
+[2024-10-21 23:37:17] Weather DefaultRain ending
+[2024-10-21 23:37:17] Weather DefaultRain forecast in 9458.764 seconds
+[2024-10-21 23:38:35] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:38:38] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:40:17] Successfully saved the game.
+[2024-10-21 23:40:24] Added 76561198400962650[0] "Eagle021" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:40:24] Sending verification request to queued player 76561198400962650[0] "Eagle021"
+[2024-10-21 23:40:24] Received authentication request from queued player 76561198400962650[0] "Eagle021"
+[2024-10-21 23:40:24] Submitted Steam authentication request for queued player 76561198400962650[0] "Eagle021"
+[2024-10-21 23:40:25] Accepting queued player 76561198400962650[0] "Eagle021"
+[2024-10-21 23:40:25] BattlEye Print: Player #31 Eagle021 (189.126.43.168:37234) connected
+[2024-10-21 23:40:25] BattlEye Print: Player #31 Eagle021 - BE GUID: ff18492415dab97100bf60e7d84abebf
+[2024-10-21 23:40:25] Connecting: PlayerID: 76561198400962650 Name: Eagle021 Character: Egle021
+[2024-10-21 23:40:25] Added 76561199053883585[0] "gbg_Nat3-_-" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:40:25] Sending verification request to queued player 76561199053883585[0] "gbg_Nat3-_-"
+[2024-10-21 23:40:25] Received authentication request from queued player 76561199053883585[0] "gbg_Nat3-_-"
+[2024-10-21 23:40:25] Submitted Steam authentication request for queued player 76561199053883585[0] "gbg_Nat3-_-"
+[2024-10-21 23:40:27] Accepting queued player 76561199053883585[0] "gbg_Nat3-_-"
+[2024-10-21 23:40:27] BattlEye Print: Player #32 gbg_Nat3-_- (108.246.98.116:63303) connected
+[2024-10-21 23:40:27] BattlEye Print: Player #32 gbg_Nat3-_- - BE GUID: 256c3af989c1ec9300cdcb084eb62d08
+[2024-10-21 23:40:27] Connecting: PlayerID: 76561199053883585 Name: gbg_Nat3-_- Character: otterbox10
+[2024-10-21 23:40:34] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:40:40] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:41:45] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:41:48] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:41:53] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:41:56] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:41:58] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:42:02] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:43:35] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:43:40] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:44:14] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:44:19] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:44:52] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:44:55] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:44:57] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:44:58] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:45:00] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:45:01] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:45:10] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:45:20] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:45:22] Removing player steamid:76561199708682314 after graceful disconnect message
+[2024-10-21 23:45:22] Disconnecting: PlayerID: 76561199708682314 Name: rck.funk Character: joaozinho da goiaba
+[2024-10-21 23:45:22] BattlEye Print: Player #25 rck.funk disconnected
+[2024-10-21 23:45:24] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:45:39] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:45:40] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:45:44] Added 76561199514398872[0] "westpinkerton" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:45:44] Sending verification request to queued player 76561199514398872[0] "westpinkerton"
+[2024-10-21 23:45:44] Received authentication request from queued player 76561199514398872[0] "westpinkerton"
+[2024-10-21 23:45:44] Submitted Steam authentication request for queued player 76561199514398872[0] "westpinkerton"
+[2024-10-21 23:45:45] Accepting queued player 76561199514398872[0] "westpinkerton"
+[2024-10-21 23:45:45] BattlEye Print: Player #33 westpinkerton (47.156.184.12:54116) connected
+[2024-10-21 23:45:45] BattlEye Print: Player #33 westpinkerton - BE GUID: 630a14ef890d6ea0654fab93695bce6b
+[2024-10-21 23:45:45] Connecting: PlayerID: 76561199514398872 Name: westpinkerton Character: Helofisheey
+[2024-10-21 23:45:57] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:46:08] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:46:27] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:46:35] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:46:37] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:46:43] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:46:54] Removing player steamid:76561199681418131 after graceful disconnect message
+[2024-10-21 23:46:54] Disconnecting: PlayerID: 76561199681418131 Name: Allenplayzvr Character: Allenplayzvr
+[2024-10-21 23:46:54] BattlEye Print: Player #18 Allenplayzvr disconnected
+[2024-10-21 23:47:06] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:47:08] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:47:50] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:47:51] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:48:21] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:48:22] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:48:22] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:48:24] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:48:26] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:48:31] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:48:35] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:48:41] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:48:45] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-21 23:49:09] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:49:32] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-21 23:50:23] Successfully saved the game.
+[2024-10-21 23:50:53] Removing player steamid:76561199561452531 after graceful disconnect message
+[2024-10-21 23:50:53] Disconnecting: PlayerID: 76561199561452531 Name: Captain_Froggg Character: Captain_Froggg
+[2024-10-21 23:50:53] BattlEye Print: Player #19 Captain_Froggg disconnected
+[2024-10-21 23:50:57] Removing player steamid:76561199514398872 after graceful disconnect message
+[2024-10-21 23:50:57] Disconnecting: PlayerID: 76561199514398872 Name: westpinkerton Character: Helofisheey
+[2024-10-21 23:50:57] BattlEye Print: Player #33 westpinkerton disconnected
+[2024-10-21 23:51:08] Removing player steamid:76561199700172826 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-21 23:51:08] Disconnecting: PlayerID: 76561199700172826 Name: asianjaden Character: asianjaden
+[2024-10-21 23:51:08] BattlEye Print: Player #30 asianjaden disconnected
+[2024-10-21 23:53:00] Removing player steamid:76561199748963391 after graceful disconnect message
+[2024-10-21 23:53:00] Disconnecting: PlayerID: 76561199748963391 Name: Graywolf_25 Character: Greyfox 25
+[2024-10-21 23:53:00] BattlEye Print: Player #5 Graywolf_25 disconnected
+[2024-10-21 23:53:02] Added 76561198286205533[0] "Rattlingmarlin" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:53:02] Sending verification request to queued player 76561198286205533[0] "Rattlingmarlin"
+[2024-10-21 23:53:02] Received authentication request from queued player 76561198286205533[0] "Rattlingmarlin"
+[2024-10-21 23:53:02] Submitted Steam authentication request for queued player 76561198286205533[0] "Rattlingmarlin"
+[2024-10-21 23:53:03] Accepting queued player 76561198286205533[0] "Rattlingmarlin"
+[2024-10-21 23:53:03] BattlEye Print: Player #33 Rattlingmarlin (97.146.123.71:62179) connected
+[2024-10-21 23:53:03] BattlEye Print: Player #33 Rattlingmarlin - BE GUID: 69cc313cab21deb328aceda0c170a422
+[2024-10-21 23:53:03] Connecting: PlayerID: 76561198286205533 Name: Rattlingmarlin Character: moneyless mike
+[2024-10-21 23:53:14] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:53:20] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:53:32] Removing player steamid:76561199053883585 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-21 23:53:32] Disconnecting: PlayerID: 76561199053883585 Name: gbg_Nat3-_- Character: otterbox10
+[2024-10-21 23:53:32] BattlEye Print: Player #32 gbg_Nat3-_- disconnected
+[2024-10-21 23:54:06] Added 76561199230944834[0] "Aresguerra" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:54:06] Sending verification request to queued player 76561199230944834[0] "Aresguerra"
+[2024-10-21 23:54:07] Received authentication request from queued player 76561199230944834[0] "Aresguerra"
+[2024-10-21 23:54:07] Submitted Steam authentication request for queued player 76561199230944834[0] "Aresguerra"
+[2024-10-21 23:54:08] Accepting queued player 76561199230944834[0] "Aresguerra"
+[2024-10-21 23:54:08] BattlEye Print: Player #34 Aresguerra (186.21.18.49:59660) connected
+[2024-10-21 23:54:08] BattlEye Print: Player #34 Aresguerra - BE GUID: c2fd1f35e16de14610cccf9cfddcdbdf
+[2024-10-21 23:54:08] Connecting: PlayerID: 76561199230944834 Name: Aresguerra Character: Aresguerra
+[2024-10-21 23:54:13] Added 76561198146034835[0] "SlickRage2169" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:54:13] Sending verification request to queued player 76561198146034835[0] "SlickRage2169"
+[2024-10-21 23:54:13] Received authentication request from queued player 76561198146034835[0] "SlickRage2169"
+[2024-10-21 23:54:13] Submitted Steam authentication request for queued player 76561198146034835[0] "SlickRage2169"
+[2024-10-21 23:54:14] Accepting queued player 76561198146034835[0] "SlickRage2169"
+[2024-10-21 23:54:14] BattlEye Print: Player #35 SlickRage2169 (75.51.48.189:53356) connected
+[2024-10-21 23:54:14] BattlEye Print: Player #35 SlickRage2169 - BE GUID: a21d054f481cb841e4d4e33a07c566cc
+[2024-10-21 23:54:14] Connecting: PlayerID: 76561198146034835 Name: SlickRage2169 Character: Ditto
+[2024-10-21 23:54:32] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-21 23:54:52] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-21 23:56:20] Removing player steamid:76561198400962650 after graceful disconnect message
+[2024-10-21 23:56:20] Disconnecting: PlayerID: 76561198400962650 Name: Eagle021 Character: Egle021
+[2024-10-21 23:56:20] BattlEye Print: Player #31 Eagle021 disconnected
+[2024-10-21 23:59:20] Removing player steamid:76561199408728347 after graceful disconnect message
+[2024-10-21 23:59:20] Disconnecting: PlayerID: 76561199408728347 Name: caydio9099 Character: caydio9099
+[2024-10-21 23:59:20] BattlEye Print: Player #21 caydio9099 disconnected
+[2024-10-21 23:59:26] Added 76561199792074811[0] "andruraath" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:59:26] Sending verification request to queued player 76561199792074811[0] "andruraath"
+[2024-10-21 23:59:26] Received authentication request from queued player 76561199792074811[0] "andruraath"
+[2024-10-21 23:59:26] Submitted Steam authentication request for queued player 76561199792074811[0] "andruraath"
+[2024-10-21 23:59:27] Accepting queued player 76561199792074811[0] "andruraath"
+[2024-10-21 23:59:27] BattlEye Print: Player #36 andruraath (99.236.244.107:51786) connected
+[2024-10-21 23:59:27] BattlEye Print: Player #36 andruraath - BE GUID: ecdf659635b070c3bc29982993216d47
+[2024-10-21 23:59:27] Connecting: PlayerID: 76561199792074811 Name: andruraath Character: andruraath
+[2024-10-21 23:59:48] Added 76561199121813505[0] "KiefferSquarePants" to queue position 0 (shouldVerify: True)
+[2024-10-21 23:59:48] Sending verification request to queued player 76561199121813505[0] "KiefferSquarePants"
+[2024-10-21 23:59:48] Received authentication request from queued player 76561199121813505[0] "KiefferSquarePants"
+[2024-10-21 23:59:48] Submitted Steam authentication request for queued player 76561199121813505[0] "KiefferSquarePants"
+[2024-10-21 23:59:49] Accepting queued player 76561199121813505[0] "KiefferSquarePants"
+[2024-10-21 23:59:49] BattlEye Print: Player #37 KiefferSquarePants (99.236.247.1:57323) connected
+[2024-10-21 23:59:49] BattlEye Print: Player #37 KiefferSquarePants - BE GUID: bc06b89275624c928b1f1170562230cc
+[2024-10-21 23:59:49] Connecting: PlayerID: 76561199121813505 Name: KiefferSquarePants Character: KiefferSquarePants
+[2024-10-22 00:00:26] Successfully saved the game.
+[2024-10-22 00:00:39] Incremented date counter: 101
+[2024-10-22 00:03:55] Added 76561199562289128[0] "zhinjiemendoza" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:03:55] Sending verification request to queued player 76561199562289128[0] "zhinjiemendoza"
+[2024-10-22 00:03:55] Received authentication request from queued player 76561199562289128[0] "zhinjiemendoza"
+[2024-10-22 00:03:55] Submitted Steam authentication request for queued player 76561199562289128[0] "zhinjiemendoza"
+[2024-10-22 00:03:57] Accepting queued player 76561199562289128[0] "zhinjiemendoza"
+[2024-10-22 00:03:57] BattlEye Print: Player #38 zhinjiemendoza (139.135.241.48:24137) connected
+[2024-10-22 00:03:57] BattlEye Print: Player #38 zhinjiemendoza - BE GUID: 822d7ae6f12ed96df8dfc775b8c8965b
+[2024-10-22 00:03:57] Connecting: PlayerID: 76561199562289128 Name: zhinjiemendoza Character: NZM4W3
+[2024-10-22 00:04:45] Removing player steamid:76561198187028094 after graceful disconnect message
+[2024-10-22 00:04:45] Disconnecting: PlayerID: 76561198187028094 Name: Sunny Character: Sunny
+[2024-10-22 00:04:45] BattlEye Print: Player #10 Sunny disconnected
+[2024-10-22 00:05:14] Removing player steamid:76561198384818207 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 00:05:14] Disconnecting: PlayerID: 76561198384818207 Name: THE COMBAT CROWBAR Character: Wild Will
+[2024-10-22 00:05:14] BattlEye Print: Player #26 THE COMBAT CROWBAR disconnected
+[2024-10-22 00:05:43] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:06:04] Removing player steamid:76561199562289128 after graceful disconnect message
+[2024-10-22 00:06:04] Disconnecting: PlayerID: 76561199562289128 Name: zhinjiemendoza Character: NZM4W3
+[2024-10-22 00:06:04] BattlEye Print: Player #38 zhinjiemendoza disconnected
+[2024-10-22 00:08:20] Successfully taking a screenshot of clem.
+[2024-10-22 00:09:03] Added 76561198877546915[0] "YaBoyMufinMan" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:09:03] Sending verification request to queued player 76561198877546915[0] "YaBoyMufinMan"
+[2024-10-22 00:09:03] Received authentication request from queued player 76561198877546915[0] "YaBoyMufinMan"
+[2024-10-22 00:09:03] Submitted Steam authentication request for queued player 76561198877546915[0] "YaBoyMufinMan"
+[2024-10-22 00:09:04] Accepting queued player 76561198877546915[0] "YaBoyMufinMan"
+[2024-10-22 00:09:04] BattlEye Print: Player #38 YaBoyMufinMan (35.134.226.179:61140) connected
+[2024-10-22 00:09:04] BattlEye Print: Player #38 YaBoyMufinMan - BE GUID: 9cc7ff39645975851ddfa753f83944ca
+[2024-10-22 00:09:04] Connecting: PlayerID: 76561198877546915 Name: YaBoyMufinMan Character: MMMUFINMAN
+[2024-10-22 00:10:05] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:10:09] Successfully saved the game.
+[2024-10-22 00:10:37] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:10:46] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:10:48] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:11:09] Added 76561198405892752[0] "whiteshadowz312" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:11:09] Sending verification request to queued player 76561198405892752[0] "whiteshadowz312"
+[2024-10-22 00:11:09] Received authentication request from queued player 76561198405892752[0] "whiteshadowz312"
+[2024-10-22 00:11:09] Submitted Steam authentication request for queued player 76561198405892752[0] "whiteshadowz312"
+[2024-10-22 00:11:10] Accepting queued player 76561198405892752[0] "whiteshadowz312"
+[2024-10-22 00:11:10] BattlEye Print: Player #39 whiteshadowz312 (35.134.226.179:50506) connected
+[2024-10-22 00:11:10] BattlEye Print: Player #39 whiteshadowz312 - BE GUID: 32f198f7cce642c7a0c19786e8bea4f9
+[2024-10-22 00:11:10] Connecting: PlayerID: 76561198405892752 Name: whiteshadowz312 Character: whiteshadowz312
+[2024-10-22 00:11:36] Added 76561199048214134[0] "Solar" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:11:36] Sending verification request to queued player 76561199048214134[0] "Solar"
+[2024-10-22 00:11:37] Received authentication request from queued player 76561199048214134[0] "Solar"
+[2024-10-22 00:11:37] Submitted Steam authentication request for queued player 76561199048214134[0] "Solar"
+[2024-10-22 00:11:38] Accepting queued player 76561199048214134[0] "Solar"
+[2024-10-22 00:11:38] BattlEye Print: Player #40 Solar (108.145.137.18:49513) connected
+[2024-10-22 00:11:38] BattlEye Print: Player #40 Solar - BE GUID: c6b4f8d527692f6c43e05ad60ec53369
+[2024-10-22 00:11:38] Connecting: PlayerID: 76561199048214134 Name: Solar Character: Yim
+[2024-10-22 00:11:41] Added 76561198443051461[0] "Franklionosotheus" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:11:41] Sending verification request to queued player 76561198443051461[0] "Franklionosotheus"
+[2024-10-22 00:11:41] Received authentication request from queued player 76561198443051461[0] "Franklionosotheus"
+[2024-10-22 00:11:41] Submitted Steam authentication request for queued player 76561198443051461[0] "Franklionosotheus"
+[2024-10-22 00:11:43] Accepting queued player 76561198443051461[0] "Franklionosotheus"
+[2024-10-22 00:11:43] BattlEye Print: Player #41 Franklionosotheus (69.39.40.125:59455) connected
+[2024-10-22 00:11:43] BattlEye Print: Player #41 Franklionosotheus - BE GUID: dc715e66b70ce7829c10f84ba0c78b98
+[2024-10-22 00:11:43] Connecting: PlayerID: 76561198443051461 Name: Franklionosotheus Character: Carlos Los Santos
+[2024-10-22 00:13:21] Added 76561199472226090[0] "hello" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:13:21] Sending verification request to queued player 76561199472226090[0] "hello"
+[2024-10-22 00:13:21] Received authentication request from queued player 76561199472226090[0] "hello"
+[2024-10-22 00:13:21] Submitted Steam authentication request for queued player 76561199472226090[0] "hello"
+[2024-10-22 00:13:22] Accepting queued player 76561199472226090[0] "hello"
+[2024-10-22 00:13:22] BattlEye Print: Player #42 hello (73.239.4.228:62046) connected
+[2024-10-22 00:13:22] BattlEye Print: Player #42 hello - BE GUID: 4545211c4aa295f228260edbfb0db1a0
+[2024-10-22 00:13:22] Connecting: PlayerID: 76561199472226090 Name: hello Character: hello
+[2024-10-22 00:13:44] Added 76561199734636754[0] "ranzlybadders6" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:13:44] Sending verification request to queued player 76561199734636754[0] "ranzlybadders6"
+[2024-10-22 00:13:45] Received authentication request from queued player 76561199734636754[0] "ranzlybadders6"
+[2024-10-22 00:13:45] Submitted Steam authentication request for queued player 76561199734636754[0] "ranzlybadders6"
+[2024-10-22 00:13:46] Accepting queued player 76561199734636754[0] "ranzlybadders6"
+[2024-10-22 00:13:46] BattlEye Print: Player #43 ranzlybadders6 (64.39.223.140:46532) connected
+[2024-10-22 00:13:46] BattlEye Print: Player #43 ranzlybadders6 - BE GUID: 294d4b71993b07dbd246cee1be72ef4c
+[2024-10-22 00:13:46] Connecting: PlayerID: 76561199734636754 Name: ranzlybadders6 Character: MIKE
+[2024-10-22 00:14:01] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:14:10] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:14:25] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:14:41] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:14:56] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:15:06] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:15:33] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:15:52] Added 76561199092177335[0] "RavioliSmacker" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:15:52] Sending verification request to queued player 76561199092177335[0] "RavioliSmacker"
+[2024-10-22 00:15:52] Received authentication request from queued player 76561199092177335[0] "RavioliSmacker"
+[2024-10-22 00:15:52] Submitted Steam authentication request for queued player 76561199092177335[0] "RavioliSmacker"
+[2024-10-22 00:15:52] Submitted Steam group request for queued player 76561199092177335[0] "RavioliSmacker"
+[2024-10-22 00:15:53] Accepting queued player 76561199092177335[0] "RavioliSmacker"
+[2024-10-22 00:15:53] BattlEye Print: Player #44 RavioliSmacker (203.158.41.62:64671) connected
+[2024-10-22 00:15:53] BattlEye Print: Player #44 RavioliSmacker - BE GUID: 75a9c1c19b5b8dba0b18606167ae74d3
+[2024-10-22 00:15:53] Connecting: PlayerID: 76561199092177335 Name: RavioliSmacker Character: RavioliSmacker
+[2024-10-22 00:16:48] Removing player steamid:76561199092177335 after graceful disconnect message
+[2024-10-22 00:16:48] Disconnecting: PlayerID: 76561199092177335 Name: RavioliSmacker Character: RavioliSmacker
+[2024-10-22 00:16:48] BattlEye Print: Player #44 RavioliSmacker disconnected
+[2024-10-22 00:16:50] Removing player steamid:76561199792074811 after graceful disconnect message
+[2024-10-22 00:16:50] Disconnecting: PlayerID: 76561199792074811 Name: andruraath Character: andruraath
+[2024-10-22 00:16:50] BattlEye Print: Player #36 andruraath disconnected
+[2024-10-22 00:17:39] Removing player steamid:76561199121813505 after graceful disconnect message
+[2024-10-22 00:17:39] Disconnecting: PlayerID: 76561199121813505 Name: KiefferSquarePants Character: KiefferSquarePants
+[2024-10-22 00:17:39] BattlEye Print: Player #37 KiefferSquarePants disconnected
+[2024-10-22 00:17:41] Removing player steamid:76561199734636754 after graceful disconnect message
+[2024-10-22 00:17:41] Disconnecting: PlayerID: 76561199734636754 Name: ranzlybadders6 Character: MIKE
+[2024-10-22 00:17:41] BattlEye Print: Player #43 ranzlybadders6 disconnected
+[2024-10-22 00:17:47] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:18:09] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:19:49] Added 76561199084233675[0] "markus65436" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:19:49] Sending verification request to queued player 76561199084233675[0] "markus65436"
+[2024-10-22 00:19:49] Received authentication request from queued player 76561199084233675[0] "markus65436"
+[2024-10-22 00:19:49] Submitted Steam authentication request for queued player 76561199084233675[0] "markus65436"
+[2024-10-22 00:19:50] Accepting queued player 76561199084233675[0] "markus65436"
+[2024-10-22 00:19:50] BattlEye Print: Player #43 markus65436 (66.243.239.241:60452) connected
+[2024-10-22 00:19:50] BattlEye Print: Player #43 markus65436 - BE GUID: 97c47ae4cd7d58b8bd5bcf3449329dcb
+[2024-10-22 00:19:50] Connecting: PlayerID: 76561199084233675 Name: markus65436 Character: markus65436
+[2024-10-22 00:20:18] Successfully saved the game.
+[2024-10-22 00:20:54] Added 76561199645011822[0] "Ian33" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:20:54] Sending verification request to queued player 76561199645011822[0] "Ian33"
+[2024-10-22 00:20:54] Received authentication request from queued player 76561199645011822[0] "Ian33"
+[2024-10-22 00:20:54] Submitted Steam authentication request for queued player 76561199645011822[0] "Ian33"
+[2024-10-22 00:20:55] Accepting queued player 76561199645011822[0] "Ian33"
+[2024-10-22 00:20:55] BattlEye Print: Player #44 Ian33 (184.59.55.57:50257) connected
+[2024-10-22 00:20:55] BattlEye Print: Player #44 Ian33 - BE GUID: 3ebea53eadaa708855b0c8ef62d3b88b
+[2024-10-22 00:20:55] Connecting: PlayerID: 76561199645011822 Name: Ian33 Character: Ian33
+[2024-10-22 00:21:22] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:21:25] Removing player steamid:76561199084233675 after graceful disconnect message
+[2024-10-22 00:21:25] Disconnecting: PlayerID: 76561199084233675 Name: markus65436 Character: markus65436
+[2024-10-22 00:21:25] BattlEye Print: Player #43 markus65436 disconnected
+[2024-10-22 00:21:28] Removing player steamid:76561198174415883 after graceful disconnect message
+[2024-10-22 00:21:28] Disconnecting: PlayerID: 76561198174415883 Name: blainethetrain Character: blainethetrain
+[2024-10-22 00:21:28] BattlEye Print: Player #28 blainethetrain disconnected
+[2024-10-22 00:21:29] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:21:32] Removing player steamid:76561199230944834 after graceful disconnect message
+[2024-10-22 00:21:32] Disconnecting: PlayerID: 76561199230944834 Name: Aresguerra Character: Aresguerra
+[2024-10-22 00:21:32] BattlEye Print: Player #34 Aresguerra disconnected
+[2024-10-22 00:21:33] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:21:35] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:21:59] Added 76561199795406261[0] "jimenezronayber" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:21:59] Sending verification request to queued player 76561199795406261[0] "jimenezronayber"
+[2024-10-22 00:22:00] Received authentication request from queued player 76561199795406261[0] "jimenezronayber"
+[2024-10-22 00:22:00] Submitted Steam authentication request for queued player 76561199795406261[0] "jimenezronayber"
+[2024-10-22 00:22:01] Accepting queued player 76561199795406261[0] "jimenezronayber"
+[2024-10-22 00:22:01] BattlEye Print: Player #45 jimenezronayber (201.221.115.122:60432) connected
+[2024-10-22 00:22:01] BattlEye Print: Player #45 jimenezronayber - BE GUID: 3c1344fa384a285bdf80e8af5dbd45f0
+[2024-10-22 00:22:01] Connecting: PlayerID: 76561199795406261 Name: jimenezronayber Character: jimenezronayber
+[2024-10-22 00:22:24] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:22:27] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:22:28] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:22:31] Kicking steamid:76561199795406261 after 30.01074 s without message
+[2024-10-22 00:22:31] Disconnecting: PlayerID: 76561199795406261 Name: jimenezronayber Character: jimenezronayber
+[2024-10-22 00:22:31] BattlEye Print: Player #45 jimenezronayber disconnected
+[2024-10-22 00:22:36] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:22:41] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:22:45] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:22:48] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:22:51] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:23:03] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:23:13] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:23:59] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:24:08] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:25:42] Successfully taking a screenshot of ganont.
+[2024-10-22 00:25:45] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:27:34] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:27:35] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:27:43] Successfully taking a screenshot of Rattlingmarlin.
+[2024-10-22 00:28:18] Added 76561198869861879[0] "Spamton" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:28:18] Sending verification request to queued player 76561198869861879[0] "Spamton"
+[2024-10-22 00:28:18] Received authentication request from queued player 76561198869861879[0] "Spamton"
+[2024-10-22 00:28:18] Submitted Steam authentication request for queued player 76561198869861879[0] "Spamton"
+[2024-10-22 00:28:20] Accepting queued player 76561198869861879[0] "Spamton"
+[2024-10-22 00:28:20] BattlEye Print: Player #45 Spamton (68.3.228.253:57138) connected
+[2024-10-22 00:28:20] BattlEye Print: Player #45 Spamton - BE GUID: bce3e2d801cb308f7b4b030e7a9b9a77
+[2024-10-22 00:28:20] Connecting: PlayerID: 76561198869861879 Name: Spamton Character: Spamtong
+[2024-10-22 00:29:14] Added 76561198877172398[0] "HalpeYTG/Cof5e3 (but spooky)" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:29:14] Sending verification request to queued player 76561198877172398[0] "HalpeYTG/Cof5e3 (but spooky)"
+[2024-10-22 00:29:14] Received authentication request from queued player 76561198877172398[0] "HalpeYTG/Cof5e3 (but spooky)"
+[2024-10-22 00:29:14] Submitted Steam authentication request for queued player 76561198877172398[0] "HalpeYTG/Cof5e3 (but spooky)"
+[2024-10-22 00:29:14] Submitted Steam group request for queued player 76561198877172398[0] "HalpeYTG/Cof5e3 (but spooky)"
+[2024-10-22 00:29:15] Accepting queued player 76561198877172398[0] "HalpeYTG/Cof5e3 (but spooky)"
+[2024-10-22 00:29:15] BattlEye Print: Player #46 HalpeYTG/Cof5e3 (but spooky) (166.173.60.65:27208) connected
+[2024-10-22 00:29:15] BattlEye Print: Player #46 HalpeYTG/Cof5e3 (but spooky) - BE GUID: f058e3d1f94329994db04f2a90a56cac
+[2024-10-22 00:29:15] Connecting: PlayerID: 76561198877172398 Name: HalpeYTG/Cof5e3 (but spooky) Character: Halpe
+[2024-10-22 00:30:14] Added 76561198188548299[0] "balformal Jenkins the 3rd" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:30:14] Sending verification request to queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 00:30:14] Received authentication request from queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 00:30:14] Submitted Steam authentication request for queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 00:30:15] Accepting queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 00:30:15] BattlEye Print: Player #47 balformal Jenkins the 3rd (47.143.54.16:61626) connected
+[2024-10-22 00:30:15] BattlEye Print: Player #47 balformal Jenkins the 3rd - BE GUID: 041e8a8e36d799ecf6bd847a4c967483
+[2024-10-22 00:30:15] Connecting: PlayerID: 76561198188548299 Name: balformal Jenkins the 3rd Character: gin
+[2024-10-22 00:30:21] Successfully saved the game.
+[2024-10-22 00:31:09] Removing player steamid:76561198146034835 after graceful disconnect message
+[2024-10-22 00:31:09] Disconnecting: PlayerID: 76561198146034835 Name: SlickRage2169 Character: Ditto
+[2024-10-22 00:31:09] BattlEye Print: Player #35 SlickRage2169 disconnected
+[2024-10-22 00:31:34] Successfully taking a screenshot of ganont.
+[2024-10-22 00:32:23] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:35:44] Added 76561198842812560[0] "ӾRɆ₳ĐɎTØDŀɆ" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:35:44] Sending verification request to queued player 76561198842812560[0] "ӾRɆ₳ĐɎTØDŀɆ"
+[2024-10-22 00:35:44] Received authentication request from queued player 76561198842812560[0] "ӾRɆ₳ĐɎTØDŀɆ"
+[2024-10-22 00:35:44] Submitted Steam authentication request for queued player 76561198842812560[0] "ӾRɆ₳ĐɎTØDŀɆ"
+[2024-10-22 00:35:45] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:35:45] Accepting queued player 76561198842812560[0] "ӾRɆ₳ĐɎTØDŀɆ"
+[2024-10-22 00:35:45] BattlEye Print: Player #48 ӾRɆ₳ĐɎTØDŀɆ (95.5.140.57:63031) connected
+[2024-10-22 00:35:45] BattlEye Print: Player #48 ӾRɆ₳ĐɎTØDŀɆ - BE GUID: df4f0e30501b74eb37d2c0cd6a4e2a53
+[2024-10-22 00:35:45] Connecting: PlayerID: 76561198842812560 Name: ӾRɆ₳ĐɎTØDŀɆ Character: ӾRɆ₳ĐɎTØDŀɆ
+[2024-10-22 00:35:58] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:37:28] Removing player steamid:76561199645011822 after graceful disconnect message
+[2024-10-22 00:37:28] Disconnecting: PlayerID: 76561199645011822 Name: Ian33 Character: Ian33
+[2024-10-22 00:37:28] BattlEye Print: Player #44 Ian33 disconnected
+[2024-10-22 00:37:43] Added 76561199756574735[0] "xzavier.fleck" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:37:43] Sending verification request to queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-22 00:37:43] Received authentication request from queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-22 00:37:43] Submitted Steam authentication request for queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-22 00:37:44] Accepting queued player 76561199756574735[0] "xzavier.fleck"
+[2024-10-22 00:37:44] BattlEye Print: Player #49 xzavier.fleck (170.203.207.250:10845) connected
+[2024-10-22 00:37:44] BattlEye Print: Player #49 xzavier.fleck - BE GUID: fae0da6a29767d658c6953e44be39b12
+[2024-10-22 00:37:44] Connecting: PlayerID: 76561199756574735 Name: xzavier.fleck Character: Xzavier
+[2024-10-22 00:38:09] Added 76561198229217732[0] "alsa" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:38:09] Sending verification request to queued player 76561198229217732[0] "alsa"
+[2024-10-22 00:38:10] Received authentication request from queued player 76561198229217732[0] "alsa"
+[2024-10-22 00:38:10] Submitted Steam authentication request for queued player 76561198229217732[0] "alsa"
+[2024-10-22 00:38:10] Submitted Steam group request for queued player 76561198229217732[0] "alsa"
+[2024-10-22 00:38:11] Accepting queued player 76561198229217732[0] "alsa"
+[2024-10-22 00:38:11] BattlEye Print: Player #50 alsa (142.112.135.216:54558) connected
+[2024-10-22 00:38:11] BattlEye Print: Player #50 alsa - BE GUID: c1a3595a10c0aa2320a2e0ddaae1c243
+[2024-10-22 00:38:11] Connecting: PlayerID: 76561198229217732 Name: alsa Character: Salsa
+[2024-10-22 00:39:00] Added 76561198348492465[0] "yaboi.yohan" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:39:00] Sending verification request to queued player 76561198348492465[0] "yaboi.yohan"
+[2024-10-22 00:39:00] Received authentication request from queued player 76561198348492465[0] "yaboi.yohan"
+[2024-10-22 00:39:00] Submitted Steam authentication request for queued player 76561198348492465[0] "yaboi.yohan"
+[2024-10-22 00:39:00] Submitted Steam group request for queued player 76561198348492465[0] "yaboi.yohan"
+[2024-10-22 00:39:02] Accepting queued player 76561198348492465[0] "yaboi.yohan"
+[2024-10-22 00:39:02] BattlEye Print: Player #51 yaboi.yohan (207.179.167.106:64385) connected
+[2024-10-22 00:39:02] BattlEye Print: Player #51 yaboi.yohan - BE GUID: 5f07736188fc979df60268574ca04bf3
+[2024-10-22 00:39:02] Connecting: PlayerID: 76561198348492465 Name: yaboi.yohan Character: Yoloyohan123
+[2024-10-22 00:39:06] Removing player steamid:76561198842812560 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 00:39:06] Disconnecting: PlayerID: 76561198842812560 Name: ӾRɆ₳ĐɎTØDŀɆ Character: ӾRɆ₳ĐɎTØDŀɆ
+[2024-10-22 00:39:06] BattlEye Print: Player #48 ӾRɆ₳ĐɎTØDŀɆ disconnected
+[2024-10-22 00:40:25] Successfully saved the game.
+[2024-10-22 00:40:34] Added 76561199493852453[0] "sxlar" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:40:34] Sending verification request to queued player 76561199493852453[0] "sxlar"
+[2024-10-22 00:40:35] Received authentication request from queued player 76561199493852453[0] "sxlar"
+[2024-10-22 00:40:35] Submitted Steam authentication request for queued player 76561199493852453[0] "sxlar"
+[2024-10-22 00:40:36] Accepting queued player 76561199493852453[0] "sxlar"
+[2024-10-22 00:40:36] BattlEye Print: Player #52 sxlar (76.36.120.103:44076) connected
+[2024-10-22 00:40:36] BattlEye Print: Player #52 sxlar - BE GUID: 400e2718bc85dbad5b7b11dd0caf4951
+[2024-10-22 00:40:36] Connecting: PlayerID: 76561199493852453 Name: sxlar Character: i am mr bombastic
+[2024-10-22 00:41:07] Added 76561198799779550[0] "Squid" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:41:07] Sending verification request to queued player 76561198799779550[0] "Squid"
+[2024-10-22 00:41:07] Received authentication request from queued player 76561198799779550[0] "Squid"
+[2024-10-22 00:41:07] Submitted Steam authentication request for queued player 76561198799779550[0] "Squid"
+[2024-10-22 00:41:08] Accepting queued player 76561198799779550[0] "Squid"
+[2024-10-22 00:41:08] BattlEye Print: Player #53 Squid (142.118.183.22:51169) connected
+[2024-10-22 00:41:08] BattlEye Print: Player #53 Squid - BE GUID: a7cb7f98dfc6f43eea89d45282f483b0
+[2024-10-22 00:41:08] Connecting: PlayerID: 76561198799779550 Name: Squid Character: Squid
+[2024-10-22 00:41:21] Removing player steamid:76561198869861879 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 00:41:21] Disconnecting: PlayerID: 76561198869861879 Name: Spamton Character: Spamtong
+[2024-10-22 00:41:21] BattlEye Print: Player #45 Spamton disconnected
+[2024-10-22 00:41:46] Removing player steamid:76561198877172398 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 00:41:46] Disconnecting: PlayerID: 76561198877172398 Name: HalpeYTG/Cof5e3 (but spooky) Character: Halpe
+[2024-10-22 00:41:46] BattlEye Print: Player #46 HalpeYTG/Cof5e3 (but spooky) disconnected
+[2024-10-22 00:42:12] Removing player steamid:76561199493852453 after graceful disconnect message
+[2024-10-22 00:42:12] Disconnecting: PlayerID: 76561199493852453 Name: sxlar Character: i am mr bombastic
+[2024-10-22 00:42:12] BattlEye Print: Player #52 sxlar disconnected
+[2024-10-22 00:42:51] Added 76561198988259961[0] "bennyyjo" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:42:51] Sending verification request to queued player 76561198988259961[0] "bennyyjo"
+[2024-10-22 00:42:51] Received authentication request from queued player 76561198988259961[0] "bennyyjo"
+[2024-10-22 00:42:51] Submitted Steam authentication request for queued player 76561198988259961[0] "bennyyjo"
+[2024-10-22 00:42:51] Submitted Steam group request for queued player 76561198988259961[0] "bennyyjo"
+[2024-10-22 00:42:52] Accepting queued player 76561198988259961[0] "bennyyjo"
+[2024-10-22 00:42:52] BattlEye Print: Player #54 bennyyjo (177.140.107.123:29286) connected
+[2024-10-22 00:42:52] BattlEye Print: Player #54 bennyyjo - BE GUID: 14453fb627fb0f86d7842c36e73ae0ce
+[2024-10-22 00:42:52] Connecting: PlayerID: 76561198988259961 Name: bennyyjo Character: ben ben
+[2024-10-22 00:45:02] Added 76561199521953971[0] "El patron" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:45:02] Sending verification request to queued player 76561199521953971[0] "El patron"
+[2024-10-22 00:45:03] Received authentication request from queued player 76561199521953971[0] "El patron"
+[2024-10-22 00:45:03] Submitted Steam authentication request for queued player 76561199521953971[0] "El patron"
+[2024-10-22 00:45:04] Accepting queued player 76561199521953971[0] "El patron"
+[2024-10-22 00:45:04] Reset 76561199521953971[0] "El patron" spawn position ((-834.10, 38.74, 591.64)) because it was obstructed
+[2024-10-22 00:45:04] BattlEye Print: Player #55 El patron (38.25.5.62:38760) connected
+[2024-10-22 00:45:04] BattlEye Print: Player #55 El patron - BE GUID: 6d8abdfdcdd6b7296bbad9585a3d7129
+[2024-10-22 00:45:04] Connecting: PlayerID: 76561199521953971 Name: El patron Character: negro anales
+[2024-10-22 00:46:03] Removing player steamid:76561199521953971 after graceful disconnect message
+[2024-10-22 00:46:03] Disconnecting: PlayerID: 76561199521953971 Name: El patron Character: negro anales
+[2024-10-22 00:46:03] BattlEye Print: Player #55 El patron disconnected
+[2024-10-22 00:47:31] Added 76561199116009581[0] "Cereal Killer" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:47:31] Sending verification request to queued player 76561199116009581[0] "Cereal Killer"
+[2024-10-22 00:47:31] Received authentication request from queued player 76561199116009581[0] "Cereal Killer"
+[2024-10-22 00:47:31] Submitted Steam authentication request for queued player 76561199116009581[0] "Cereal Killer"
+[2024-10-22 00:47:32] Accepting queued player 76561199116009581[0] "Cereal Killer"
+[2024-10-22 00:47:32] BattlEye Print: Player #55 Cereal Killer (107.131.255.11:61507) connected
+[2024-10-22 00:47:32] BattlEye Print: Player #55 Cereal Killer - BE GUID: aa7fa8bd63a9d2715ae6e68fc927616a
+[2024-10-22 00:47:32] Connecting: PlayerID: 76561199116009581 Name: Cereal Killer Character: mynamejeff
+[2024-10-22 00:47:43] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:47:47] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:48:06] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:48:10] Added 76561198220389097[0] "Mr Knife" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:48:10] Sending verification request to queued player 76561198220389097[0] "Mr Knife"
+[2024-10-22 00:48:10] Received authentication request from queued player 76561198220389097[0] "Mr Knife"
+[2024-10-22 00:48:10] Submitted Steam authentication request for queued player 76561198220389097[0] "Mr Knife"
+[2024-10-22 00:48:10] Submitted Steam group request for queued player 76561198220389097[0] "Mr Knife"
+[2024-10-22 00:48:11] Accepting queued player 76561198220389097[0] "Mr Knife"
+[2024-10-22 00:48:11] BattlEye Print: Player #56 Mr Knife (201.142.246.154:57046) connected
+[2024-10-22 00:48:11] BattlEye Print: Player #56 Mr Knife - BE GUID: 2be0715e30a1076762b5ee0818e219e3
+[2024-10-22 00:48:11] Connecting: PlayerID: 76561198220389097 Name: Mr Knife Character: Mr Knife
+[2024-10-22 00:48:17] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:48:27] Added 76561198431329521[0] "Artificial Beans" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:48:27] Sending verification request to queued player 76561198431329521[0] "Artificial Beans"
+[2024-10-22 00:48:27] Received authentication request from queued player 76561198431329521[0] "Artificial Beans"
+[2024-10-22 00:48:27] Submitted Steam authentication request for queued player 76561198431329521[0] "Artificial Beans"
+[2024-10-22 00:48:27] Submitted Steam group request for queued player 76561198431329521[0] "Artificial Beans"
+[2024-10-22 00:48:28] Accepting queued player 76561198431329521[0] "Artificial Beans"
+[2024-10-22 00:48:28] BattlEye Print: Player #57 Artificial Beans (174.93.35.133:50775) connected
+[2024-10-22 00:48:28] BattlEye Print: Player #57 Artificial Beans - BE GUID: 7fc89612d36f1e3aacb0fd88d26d1095
+[2024-10-22 00:48:28] Connecting: PlayerID: 76561198431329521 Name: Artificial Beans Character: Artificial Beans
+[2024-10-22 00:48:28] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Artificial Beans [Artificial Beans]/Third/Skeleton/Left_Hip/Left_Leg"
+[2024-10-22 00:48:28] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Artificial Beans [Artificial Beans]/Third/Skeleton/Right_Hip/Right_Leg"
+[2024-10-22 00:48:28] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Artificial Beans [Artificial Beans]/Third/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-22 00:48:28] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Artificial Beans [Artificial Beans]/Third/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-22 00:48:28] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Artificial Beans [Artificial Beans]/Third/Skeleton/Spine/Skull"
+[2024-10-22 00:48:28] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Artificial Beans [Artificial Beans]/Third/Skeleton/Spine"
+[2024-10-22 00:48:37] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:48:38] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:48:38] Removing player steamid:76561198405892752 after graceful disconnect message
+[2024-10-22 00:48:38] Disconnecting: PlayerID: 76561198405892752 Name: whiteshadowz312 Character: whiteshadowz312
+[2024-10-22 00:48:38] BattlEye Print: Player #39 whiteshadowz312 disconnected
+[2024-10-22 00:48:39] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:48:42] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:48:42] Added 76561198374777512[0] "Sandy Cheeks" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:48:42] Sending verification request to queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-22 00:48:43] Received authentication request from queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-22 00:48:43] Submitted Steam authentication request for queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-22 00:48:43] Submitted Steam group request for queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-22 00:48:44] Accepting queued player 76561198374777512[0] "Sandy Cheeks"
+[2024-10-22 00:48:44] BattlEye Print: Player #58 Sandy Cheeks (207.254.164.44:60656) connected
+[2024-10-22 00:48:44] BattlEye Print: Player #58 Sandy Cheeks - BE GUID: 47175d21e7f95e68f2d64310303366dd
+[2024-10-22 00:48:44] Connecting: PlayerID: 76561198374777512 Name: Sandy Cheeks Character: LampShade
+[2024-10-22 00:48:53] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:48:55] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:49:01] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:49:07] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:49:13] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 00:49:18] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 00:49:26] Added 76561199561452531[0] "Captain_Froggg" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:49:26] Sending verification request to queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-22 00:49:26] Received authentication request from queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-22 00:49:26] Submitted Steam authentication request for queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-22 00:49:28] Accepting queued player 76561199561452531[0] "Captain_Froggg"
+[2024-10-22 00:49:28] BattlEye Print: Player #59 Captain_Froggg (24.18.219.45:61230) connected
+[2024-10-22 00:49:28] BattlEye Print: Player #59 Captain_Froggg - BE GUID: 73112e430b1de70b09471bb293327870
+[2024-10-22 00:49:28] Connecting: PlayerID: 76561199561452531 Name: Captain_Froggg Character: Captain_Froggg
+[2024-10-22 00:50:06] Added 76561198106436368[0] "inaba" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:50:06] Sending verification request to queued player 76561198106436368[0] "inaba"
+[2024-10-22 00:50:06] Received authentication request from queued player 76561198106436368[0] "inaba"
+[2024-10-22 00:50:06] Submitted Steam authentication request for queued player 76561198106436368[0] "inaba"
+[2024-10-22 00:50:06] Submitted Steam group request for queued player 76561198106436368[0] "inaba"
+[2024-10-22 00:50:07] Accepting queued player 76561198106436368[0] "inaba"
+[2024-10-22 00:50:07] BattlEye Print: Player #60 inaba (179.6.12.176:42854) connected
+[2024-10-22 00:50:07] BattlEye Print: Player #60 inaba - BE GUID: 26d9b0a76fa0b68f89e3150146edc743
+[2024-10-22 00:50:07] Connecting: PlayerID: 76561198106436368 Name: inaba Character: INABAAAAAAA
+[2024-10-22 00:50:09] Added 76561199681418131[0] "Allenplayzvr" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:50:09] Sending verification request to queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-22 00:50:09] Received authentication request from queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-22 00:50:09] Submitted Steam authentication request for queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-22 00:50:10] Accepting queued player 76561199681418131[0] "Allenplayzvr"
+[2024-10-22 00:50:10] BattlEye Print: Player #61 Allenplayzvr (170.203.213.198:17654) connected
+[2024-10-22 00:50:10] BattlEye Print: Player #61 Allenplayzvr - BE GUID: 47bd6d7673e4bd597efdd7aa39d0964e
+[2024-10-22 00:50:10] Connecting: PlayerID: 76561199681418131 Name: Allenplayzvr Character: Allenplayzvr
+[2024-10-22 00:50:13] Successfully saved the game.
+[2024-10-22 00:50:41] Removing player steamid:76561198877546915 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 00:50:41] Disconnecting: PlayerID: 76561198877546915 Name: YaBoyMufinMan Character: MMMUFINMAN
+[2024-10-22 00:50:41] BattlEye Print: Player #38 YaBoyMufinMan disconnected
+[2024-10-22 00:50:56] Added 76561199176312779[0] "fashonium" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:50:56] Sending verification request to queued player 76561199176312779[0] "fashonium"
+[2024-10-22 00:50:56] Received authentication request from queued player 76561199176312779[0] "fashonium"
+[2024-10-22 00:50:56] Submitted Steam authentication request for queued player 76561199176312779[0] "fashonium"
+[2024-10-22 00:50:56] Submitted Steam group request for queued player 76561199176312779[0] "fashonium"
+[2024-10-22 00:50:57] Accepting queued player 76561199176312779[0] "fashonium"
+[2024-10-22 00:50:57] BattlEye Print: Player #62 fashonium (73.7.47.49:64211) connected
+[2024-10-22 00:50:57] BattlEye Print: Player #62 fashonium - BE GUID: 6f8892c69ac9df3fedee06d185dddf59
+[2024-10-22 00:50:57] Connecting: PlayerID: 76561199176312779 Name: fashonium Character: wonderfultime
+[2024-10-22 00:52:30] Added 76561199520656473[0] "pedrogdgdgd45" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:52:30] Sending verification request to queued player 76561199520656473[0] "pedrogdgdgd45"
+[2024-10-22 00:52:31] Received authentication request from queued player 76561199520656473[0] "pedrogdgdgd45"
+[2024-10-22 00:52:31] Submitted Steam authentication request for queued player 76561199520656473[0] "pedrogdgdgd45"
+[2024-10-22 00:52:32] Accepting queued player 76561199520656473[0] "pedrogdgdgd45"
+[2024-10-22 00:52:32] BattlEye Print: Player #63 pedrogdgdgd45 (187.33.250.150:17682) connected
+[2024-10-22 00:52:32] BattlEye Print: Player #63 pedrogdgdgd45 - BE GUID: 09b920bf7ad0feb379f33b64c74147ff
+[2024-10-22 00:52:32] Connecting: PlayerID: 76561199520656473 Name: pedrogdgdgd45 Character: pedrogdgdgd45
+[2024-10-22 00:53:42] Added 76561199634730820[0] "rafaelsilvacavalcanti2301" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:53:42] Sending verification request to queued player 76561199634730820[0] "rafaelsilvacavalcanti2301"
+[2024-10-22 00:53:43] Received authentication request from queued player 76561199634730820[0] "rafaelsilvacavalcanti2301"
+[2024-10-22 00:53:43] Submitted Steam authentication request for queued player 76561199634730820[0] "rafaelsilvacavalcanti2301"
+[2024-10-22 00:53:44] Accepting queued player 76561199634730820[0] "rafaelsilvacavalcanti2301"
+[2024-10-22 00:53:44] BattlEye Print: Player #64 rafaelsilvacavalcanti2301 (177.83.194.130:60991) connected
+[2024-10-22 00:53:44] BattlEye Print: Player #64 rafaelsilvacavalcanti2301 - BE GUID: 661dbd1c18fbdaef33afd0493cd9e313
+[2024-10-22 00:53:44] Connecting: PlayerID: 76561199634730820 Name: rafaelsilvacavalcanti2301 Character: rafaelsc_01
+[2024-10-22 00:53:55] Added 76561198999510948[0] "leandrofellype6" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:53:55] Sending verification request to queued player 76561198999510948[0] "leandrofellype6"
+[2024-10-22 00:53:55] Received authentication request from queued player 76561198999510948[0] "leandrofellype6"
+[2024-10-22 00:53:55] Submitted Steam authentication request for queued player 76561198999510948[0] "leandrofellype6"
+[2024-10-22 00:53:56] Accepting queued player 76561198999510948[0] "leandrofellype6"
+[2024-10-22 00:53:56] BattlEye Print: Player #65 leandrofellype6 (187.64.63.43:58504) connected
+[2024-10-22 00:53:56] BattlEye Print: Player #65 leandrofellype6 - BE GUID: ec583709eb3380cb5813bcbdc1b93901
+[2024-10-22 00:53:56] Connecting: PlayerID: 76561198999510948 Name: leandrofellype6 Character: Lobo_Mal
+[2024-10-22 00:57:37] Added 76561199754632191[0] "MatZinxd7" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:57:37] Sending verification request to queued player 76561199754632191[0] "MatZinxd7"
+[2024-10-22 00:57:38] Received authentication request from queued player 76561199754632191[0] "MatZinxd7"
+[2024-10-22 00:57:38] Submitted Steam authentication request for queued player 76561199754632191[0] "MatZinxd7"
+[2024-10-22 00:57:39] Accepting queued player 76561199754632191[0] "MatZinxd7"
+[2024-10-22 00:57:39] BattlEye Print: Player #66 MatZinxd7 (177.98.161.199:59489) connected
+[2024-10-22 00:57:39] BattlEye Print: Player #66 MatZinxd7 - BE GUID: c041eb6d259279118913a0fa843ac3b4
+[2024-10-22 00:57:39] Connecting: PlayerID: 76561199754632191 Name: MatZinxd7 Character: MatZinxd7
+[2024-10-22 00:58:12] Added 76561199651443787[0] "v0vlerine" to queue position 0 (shouldVerify: True)
+[2024-10-22 00:58:16] Removing player steamid:76561199048214134 after graceful disconnect message
+[2024-10-22 00:58:16] Disconnecting: PlayerID: 76561199048214134 Name: Solar Character: Yim
+[2024-10-22 00:58:16] BattlEye Print: Player #40 Solar disconnected
+[2024-10-22 00:58:16] Sending verification request to queued player 76561199651443787[0] "v0vlerine"
+[2024-10-22 00:58:16] Received authentication request from queued player 76561199651443787[0] "v0vlerine"
+[2024-10-22 00:58:16] Submitted Steam authentication request for queued player 76561199651443787[0] "v0vlerine"
+[2024-10-22 00:58:17] Accepting queued player 76561199651443787[0] "v0vlerine"
+[2024-10-22 00:58:17] BattlEye Print: Player #67 v0vlerine (24.51.23.146:61365) connected
+[2024-10-22 00:58:17] BattlEye Print: Player #67 v0vlerine - BE GUID: 13bba93d303f48071041a7b13fdede83
+[2024-10-22 00:58:17] Connecting: PlayerID: 76561199651443787 Name: v0vlerine Character: v0vlerine
+[2024-10-22 00:59:51] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:00:11] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:00:16] Removing player steamid:76561199651443787 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:00:16] Disconnecting: PlayerID: 76561199651443787 Name: v0vlerine Character: v0vlerine
+[2024-10-22 01:00:16] BattlEye Print: Player #67 v0vlerine disconnected
+[2024-10-22 01:00:17] Successfully saved the game.
+[2024-10-22 01:00:39] Incremented date counter: 102
+[2024-10-22 01:00:47] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:01:00] Successfully taking a screenshot of alsa.
+[2024-10-22 01:01:02] Successfully taking a screenshot of Toji.
+[2024-10-22 01:01:06] Successfully taking a screenshot of Toji.
+[2024-10-22 01:01:14] Successfully taking a screenshot of Toji.
+[2024-10-22 01:01:20] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:01:31] Removing player steamid:76561198286205533 after graceful disconnect message
+[2024-10-22 01:01:31] Disconnecting: PlayerID: 76561198286205533 Name: Rattlingmarlin Character: moneyless mike
+[2024-10-22 01:01:31] BattlEye Print: Player #33 Rattlingmarlin disconnected
+[2024-10-22 01:02:02] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:02:22] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:02:26] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:02:28] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:02:31] Removing player steamid:76561198443051461 after graceful disconnect message
+[2024-10-22 01:02:31] Disconnecting: PlayerID: 76561198443051461 Name: Franklionosotheus Character: Carlos Los Santos
+[2024-10-22 01:02:31] BattlEye Print: Player #41 Franklionosotheus disconnected
+[2024-10-22 01:02:31] Kicking player 76561198166043286 because "unspecified"
+[2024-10-22 01:02:31] BattlEye Print: Player #29 Rigbone disconnected
+[2024-10-22 01:02:31] Successfully kicked Rigbone!
+[2024-10-22 01:03:04] Removing player steamid:76561199116009581 after graceful disconnect message
+[2024-10-22 01:03:04] Disconnecting: PlayerID: 76561199116009581 Name: Cereal Killer Character: mynamejeff
+[2024-10-22 01:03:04] BattlEye Print: Player #55 Cereal Killer disconnected
+[2024-10-22 01:03:16] Added 76561198166043286[0] "Rigbone" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:03:16] Sending verification request to queued player 76561198166043286[0] "Rigbone"
+[2024-10-22 01:03:16] Received authentication request from queued player 76561198166043286[0] "Rigbone"
+[2024-10-22 01:03:16] Submitted Steam authentication request for queued player 76561198166043286[0] "Rigbone"
+[2024-10-22 01:03:16] Submitted Steam group request for queued player 76561198166043286[0] "Rigbone"
+[2024-10-22 01:03:17] Accepting queued player 76561198166043286[0] "Rigbone"
+[2024-10-22 01:03:17] BattlEye Print: Player #67 Rigbone (73.157.85.166:56023) connected
+[2024-10-22 01:03:17] BattlEye Print: Player #67 Rigbone - BE GUID: d880ec24dcb990d615a05eaafb0766a5
+[2024-10-22 01:03:17] Connecting: PlayerID: 76561198166043286 Name: Rigbone Character: Rigbone
+[2024-10-22 01:03:25] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:03:35] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-22 01:03:37] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:04:21] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:04:36] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:04:44] Removing player steamid:76561199756574735 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:04:44] Disconnecting: PlayerID: 76561199756574735 Name: xzavier.fleck Character: Xzavier
+[2024-10-22 01:04:44] BattlEye Print: Player #49 xzavier.fleck disconnected
+[2024-10-22 01:05:01] Removing player steamid:76561199754632191 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:05:01] Disconnecting: PlayerID: 76561199754632191 Name: MatZinxd7 Character: MatZinxd7
+[2024-10-22 01:05:01] BattlEye Print: Player #66 MatZinxd7 disconnected
+[2024-10-22 01:06:17] Added 76561198981149888[0] "gmonsters" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:06:17] Sending verification request to queued player 76561198981149888[0] "gmonsters"
+[2024-10-22 01:06:17] Received authentication request from queued player 76561198981149888[0] "gmonsters"
+[2024-10-22 01:06:17] Submitted Steam authentication request for queued player 76561198981149888[0] "gmonsters"
+[2024-10-22 01:06:18] Accepting queued player 76561198981149888[0] "gmonsters"
+[2024-10-22 01:06:18] BattlEye Print: Player #68 gmonsters (96.60.68.215:60973) connected
+[2024-10-22 01:06:18] BattlEye Print: Player #68 gmonsters - BE GUID: d871b0fe71ec278fe3f74a7088a0fe53
+[2024-10-22 01:06:18] Connecting: PlayerID: 76561198981149888 Name: gmonsters Character: gmonsters
+[2024-10-22 01:06:40] Added 76561199337052858[0] "DVG" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:06:40] Sending verification request to queued player 76561199337052858[0] "DVG"
+[2024-10-22 01:06:40] Received authentication request from queued player 76561199337052858[0] "DVG"
+[2024-10-22 01:06:40] Submitted Steam authentication request for queued player 76561199337052858[0] "DVG"
+[2024-10-22 01:06:41] Accepting queued player 76561199337052858[0] "DVG"
+[2024-10-22 01:06:41] BattlEye Print: Player #69 DVG (142.68.17.23:62340) connected
+[2024-10-22 01:06:41] BattlEye Print: Player #69 DVG - BE GUID: 48301ee529240bd1340c6891d348e260
+[2024-10-22 01:06:41] Connecting: PlayerID: 76561199337052858 Name: DVG Character: DVG
+[2024-10-22 01:06:53] Added 76561199675885117[0] "thematic-chip25" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:06:53] Sending verification request to queued player 76561199675885117[0] "thematic-chip25"
+[2024-10-22 01:06:53] Received authentication request from queued player 76561199675885117[0] "thematic-chip25"
+[2024-10-22 01:06:53] Submitted Steam authentication request for queued player 76561199675885117[0] "thematic-chip25"
+[2024-10-22 01:06:54] Accepting queued player 76561199675885117[0] "thematic-chip25"
+[2024-10-22 01:06:54] BattlEye Print: Player #70 thematic-chip25 (149.167.46.226:6472) connected
+[2024-10-22 01:06:54] BattlEye Print: Player #70 thematic-chip25 - BE GUID: bd2553c4f706a43ee44a67404899fced
+[2024-10-22 01:06:54] Connecting: PlayerID: 76561199675885117 Name: thematic-chip25 Character: jacobmcgregor86
+[2024-10-22 01:07:01] Added 76561199765072044[0] "The Lorax" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:07:01] Sending verification request to queued player 76561199765072044[0] "The Lorax"
+[2024-10-22 01:07:01] Received authentication request from queued player 76561199765072044[0] "The Lorax"
+[2024-10-22 01:07:01] Submitted Steam authentication request for queued player 76561199765072044[0] "The Lorax"
+[2024-10-22 01:07:01] Submitted Steam group request for queued player 76561199765072044[0] "The Lorax"
+[2024-10-22 01:07:02] Accepting queued player 76561199765072044[0] "The Lorax"
+[2024-10-22 01:07:02] BattlEye Print: Player #71 The Lorax (170.203.220.72:7674) connected
+[2024-10-22 01:07:02] BattlEye Print: Player #71 The Lorax - BE GUID: 209b52b249e00b224f91a3d6c721ab28
+[2024-10-22 01:07:02] Connecting: PlayerID: 76561199765072044 Name: The Lorax Character: The Lorax
+[2024-10-22 01:08:47] Kicking steamid:76561198988597068 after 30.00391 s without message
+[2024-10-22 01:08:47] Disconnecting: PlayerID: 76561198988597068 Name: ganont Character: ganont
+[2024-10-22 01:08:47] BattlEye Print: Player #7 ganont disconnected
+[2024-10-22 01:09:13] Removing player steamid:76561199472226090 after graceful disconnect message
+[2024-10-22 01:09:13] Disconnecting: PlayerID: 76561199472226090 Name: hello Character: hello
+[2024-10-22 01:09:13] BattlEye Print: Player #42 hello disconnected
+[2024-10-22 01:09:25] Added 76561198827118909[0] "poppaduck" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:09:25] Sending verification request to queued player 76561198827118909[0] "poppaduck"
+[2024-10-22 01:09:26] Received authentication request from queued player 76561198827118909[0] "poppaduck"
+[2024-10-22 01:09:26] Submitted Steam authentication request for queued player 76561198827118909[0] "poppaduck"
+[2024-10-22 01:09:27] Accepting queued player 76561198827118909[0] "poppaduck"
+[2024-10-22 01:09:27] BattlEye Print: Player #72 poppaduck (209.16.149.193:53407) connected
+[2024-10-22 01:09:27] BattlEye Print: Player #72 poppaduck - BE GUID: c43393808ba487d9818286a088d4e8b2
+[2024-10-22 01:09:27] Connecting: PlayerID: 76561198827118909 Name: poppaduck Character: BabyOnBaby
+[2024-10-22 01:10:21] Successfully saved the game.
+[2024-10-22 01:10:31] Added 76561199542005679[0] "ashburntheyeeter" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:10:31] Sending verification request to queued player 76561199542005679[0] "ashburntheyeeter"
+[2024-10-22 01:10:31] Received authentication request from queued player 76561199542005679[0] "ashburntheyeeter"
+[2024-10-22 01:10:31] Submitted Steam authentication request for queued player 76561199542005679[0] "ashburntheyeeter"
+[2024-10-22 01:10:32] Accepting queued player 76561199542005679[0] "ashburntheyeeter"
+[2024-10-22 01:10:32] BattlEye Print: Player #73 ashburntheyeeter (107.144.199.207:63240) connected
+[2024-10-22 01:10:32] BattlEye Print: Player #73 ashburntheyeeter - BE GUID: a2472d96ae530c73e66d8ef57d04247b
+[2024-10-22 01:10:32] Connecting: PlayerID: 76561199542005679 Name: ashburntheyeeter Character: ashburntheyeeter
+[2024-10-22 01:10:35] Removing player steamid:76561198022454208 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:10:35] Disconnecting: PlayerID: 76561198022454208 Name: WW2018 Character: Giant Cong
+[2024-10-22 01:10:35] BattlEye Print: Player #27 WW2018 disconnected
+[2024-10-22 01:10:38] Added 76561199044965326[0] "sunny92sim" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:10:38] Sending verification request to queued player 76561199044965326[0] "sunny92sim"
+[2024-10-22 01:10:39] Received authentication request from queued player 76561199044965326[0] "sunny92sim"
+[2024-10-22 01:10:39] Submitted Steam authentication request for queued player 76561199044965326[0] "sunny92sim"
+[2024-10-22 01:10:40] Accepting queued player 76561199044965326[0] "sunny92sim"
+[2024-10-22 01:10:40] BattlEye Print: Player #74 sunny92sim (174.67.41.207:60486) connected
+[2024-10-22 01:10:40] BattlEye Print: Player #74 sunny92sim - BE GUID: d9f911c00110e2d72771bcfe25d065ab
+[2024-10-22 01:10:40] Connecting: PlayerID: 76561199044965326 Name: sunny92sim Character: sunny92sim
+[2024-10-22 01:10:46] Removing player steamid:76561198799779550 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:10:46] Disconnecting: PlayerID: 76561198799779550 Name: Squid Character: Squid
+[2024-10-22 01:10:46] BattlEye Print: Player #53 Squid disconnected
+[2024-10-22 01:10:47] Removing player steamid:76561198431329521 after graceful disconnect message
+[2024-10-22 01:10:47] Disconnecting: PlayerID: 76561198431329521 Name: Artificial Beans Character: Artificial Beans
+[2024-10-22 01:10:47] BattlEye Print: Player #57 Artificial Beans disconnected
+[2024-10-22 01:11:38] Added 76561199655112238[0] "Jcozze" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:11:38] Sending verification request to queued player 76561199655112238[0] "Jcozze"
+[2024-10-22 01:11:38] Received authentication request from queued player 76561199655112238[0] "Jcozze"
+[2024-10-22 01:11:38] Submitted Steam authentication request for queued player 76561199655112238[0] "Jcozze"
+[2024-10-22 01:11:39] Accepting queued player 76561199655112238[0] "Jcozze"
+[2024-10-22 01:11:39] BattlEye Print: Player #75 Jcozze (73.104.122.13:49506) connected
+[2024-10-22 01:11:39] BattlEye Print: Player #75 Jcozze - BE GUID: 4cbd91659104ceb2e487376bdbef2127
+[2024-10-22 01:11:39] Connecting: PlayerID: 76561199655112238 Name: Jcozze Character: Jcozzeツ
+[2024-10-22 01:12:09] Added 76561198988597068[0] "ganont" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:12:09] Sending verification request to queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:12:09] Received authentication request from queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:12:09] Submitted Steam authentication request for queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:12:10] Accepting queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:12:10] BattlEye Print: Player #76 ganont (73.96.210.159:59429) connected
+[2024-10-22 01:12:10] BattlEye Print: Player #76 ganont - BE GUID: 6a3bb538796267a315830622e6cb8dd8
+[2024-10-22 01:12:10] Connecting: PlayerID: 76561198988597068 Name: ganont Character: ganont
+[2024-10-22 01:12:29] Added 76561198344498310[0] "Rick Astley from Rick Roll" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:12:29] Sending verification request to queued player 76561198344498310[0] "Rick Astley from Rick Roll"
+[2024-10-22 01:12:30] Received authentication request from queued player 76561198344498310[0] "Rick Astley from Rick Roll"
+[2024-10-22 01:12:30] Submitted Steam authentication request for queued player 76561198344498310[0] "Rick Astley from Rick Roll"
+[2024-10-22 01:12:31] Accepting queued player 76561198344498310[0] "Rick Astley from Rick Roll"
+[2024-10-22 01:12:31] BattlEye Print: Player #77 Rick Astley from Rick Roll (65.74.100.170:56458) connected
+[2024-10-22 01:12:31] BattlEye Print: Player #77 Rick Astley from Rick Roll - BE GUID: f7026759a084772c623ec2e6c7524ab8
+[2024-10-22 01:12:31] Connecting: PlayerID: 76561198344498310 Name: Rick Astley from Rick Roll Character: Red Star
+[2024-10-22 01:13:22] Added 76561199110099520[0] "profile name" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:13:22] Sending verification request to queued player 76561199110099520[0] "profile name"
+[2024-10-22 01:13:22] Received authentication request from queued player 76561199110099520[0] "profile name"
+[2024-10-22 01:13:22] Submitted Steam authentication request for queued player 76561199110099520[0] "profile name"
+[2024-10-22 01:13:23] Accepting queued player 76561199110099520[0] "profile name"
+[2024-10-22 01:13:23] BattlEye Print: Player #78 profile name (172.114.129.189:59238) connected
+[2024-10-22 01:13:23] BattlEye Print: Player #78 profile name - BE GUID: 544e10f251ee5c4dc29b892e0e504fed
+[2024-10-22 01:13:23] Connecting: PlayerID: 76561199110099520 Name: profile name Character: profile_name
+[2024-10-22 01:14:43] Kicking steamid:76561199044965326 after 30.01172 s without message
+[2024-10-22 01:14:43] Disconnecting: PlayerID: 76561199044965326 Name: sunny92sim Character: sunny92sim
+[2024-10-22 01:14:43] BattlEye Print: Player #74 sunny92sim disconnected
+[2024-10-22 01:15:21] Removing player steamid:76561199655112238 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:15:21] Disconnecting: PlayerID: 76561199655112238 Name: Jcozze Character: Jcozzeツ
+[2024-10-22 01:15:21] BattlEye Print: Player #75 Jcozze disconnected
+[2024-10-22 01:15:56] Removing player steamid:76561198981149888 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:15:56] Disconnecting: PlayerID: 76561198981149888 Name: gmonsters Character: gmonsters
+[2024-10-22 01:15:56] BattlEye Print: Player #68 gmonsters disconnected
+[2024-10-22 01:17:35] Kicking steamid:76561198188548299 after 30.00586 s without message
+[2024-10-22 01:17:35] Disconnecting: PlayerID: 76561198188548299 Name: balformal Jenkins the 3rd Character: gin
+[2024-10-22 01:17:35] BattlEye Print: Player #47 balformal Jenkins the 3rd disconnected
+[2024-10-22 01:17:47] Removing player steamid:76561199542005679 after graceful disconnect message
+[2024-10-22 01:17:47] Disconnecting: PlayerID: 76561199542005679 Name: ashburntheyeeter Character: ashburntheyeeter
+[2024-10-22 01:17:47] BattlEye Print: Player #73 ashburntheyeeter disconnected
+[2024-10-22 01:17:52] Removing player steamid:76561198348492465 after graceful disconnect message
+[2024-10-22 01:17:52] Disconnecting: PlayerID: 76561198348492465 Name: yaboi.yohan Character: Yoloyohan123
+[2024-10-22 01:17:52] BattlEye Print: Player #51 yaboi.yohan disconnected
+[2024-10-22 01:17:52] Removing player steamid:76561198229217732 after graceful disconnect message
+[2024-10-22 01:17:52] Disconnecting: PlayerID: 76561198229217732 Name: alsa Character: Salsa
+[2024-10-22 01:17:52] BattlEye Print: Player #50 alsa disconnected
+[2024-10-22 01:18:07] Removing player steamid:76561199765072044 after graceful disconnect message
+[2024-10-22 01:18:07] Disconnecting: PlayerID: 76561199765072044 Name: The Lorax Character: The Lorax
+[2024-10-22 01:18:07] BattlEye Print: Player #71 The Lorax disconnected
+[2024-10-22 01:18:16] Successfully taking a screenshot of inaba.
+[2024-10-22 01:18:17] Removing player steamid:76561199675885117 after graceful disconnect message
+[2024-10-22 01:18:17] Disconnecting: PlayerID: 76561199675885117 Name: thematic-chip25 Character: jacobmcgregor86
+[2024-10-22 01:18:17] BattlEye Print: Player #70 thematic-chip25 disconnected
+[2024-10-22 01:18:28] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:18:33] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:18:34] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:18:34] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:18:35] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:18:38] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:20:02] Successfully taking a screenshot of Rick Astley from Rick Roll.
+[2024-10-22 01:20:05] Added 76561199481511346[0] "hsdelivery" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:20:05] Sending verification request to queued player 76561199481511346[0] "hsdelivery"
+[2024-10-22 01:20:06] Received authentication request from queued player 76561199481511346[0] "hsdelivery"
+[2024-10-22 01:20:06] Submitted Steam authentication request for queued player 76561199481511346[0] "hsdelivery"
+[2024-10-22 01:20:07] Accepting queued player 76561199481511346[0] "hsdelivery"
+[2024-10-22 01:20:07] BattlEye Print: Player #79 hsdelivery (176.221.124.174:44509) connected
+[2024-10-22 01:20:07] BattlEye Print: Player #79 hsdelivery - BE GUID: 890f1a295cc43d48724f68d7cfca4e42
+[2024-10-22 01:20:07] Connecting: PlayerID: 76561199481511346 Name: hsdelivery Character: hsdelivery
+[2024-10-22 01:20:07] Successfully taking a screenshot of Rick Astley from Rick Roll.
+[2024-10-22 01:20:22] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:20:24] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:20:24] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:20:27] Successfully saved the game.
+[2024-10-22 01:20:33] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:20:34] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:20:51] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:20:52] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:20:57] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:21:02] Removing player steamid:76561199110099520 after graceful disconnect message
+[2024-10-22 01:21:02] Disconnecting: PlayerID: 76561199110099520 Name: profile name Character: profile_name
+[2024-10-22 01:21:02] BattlEye Print: Player #78 profile name disconnected
+[2024-10-22 01:21:11] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:21:16] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:21:28] Added 76561199792215021[0] "What?" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:21:28] Sending verification request to queued player 76561199792215021[0] "What?"
+[2024-10-22 01:21:29] Received authentication request from queued player 76561199792215021[0] "What?"
+[2024-10-22 01:21:29] Submitted Steam authentication request for queued player 76561199792215021[0] "What?"
+[2024-10-22 01:21:30] Accepting queued player 76561199792215021[0] "What?"
+[2024-10-22 01:21:30] BattlEye Print: Player #80 What? (98.178.171.103:64155) connected
+[2024-10-22 01:21:30] BattlEye Print: Player #80 What? - BE GUID: fe0b41e1b155870ba52fa85ea6149450
+[2024-10-22 01:21:30] Connecting: PlayerID: 76561199792215021 Name: What? Character: What?
+[2024-10-22 01:21:31] Added 76561198188548299[0] "balformal Jenkins the 3rd" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:21:31] Sending verification request to queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 01:21:31] Received authentication request from queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 01:21:31] Submitted Steam authentication request for queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 01:21:32] Accepting queued player 76561198188548299[0] "balformal Jenkins the 3rd"
+[2024-10-22 01:21:32] BattlEye Print: Player #81 balformal Jenkins the 3rd (47.143.54.16:53712) connected
+[2024-10-22 01:21:32] BattlEye Print: Player #81 balformal Jenkins the 3rd - BE GUID: 041e8a8e36d799ecf6bd847a4c967483
+[2024-10-22 01:21:32] Connecting: PlayerID: 76561198188548299 Name: balformal Jenkins the 3rd Character: gin
+[2024-10-22 01:21:59] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:22:03] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:22:41] Removing player steamid:76561198827118909 after graceful disconnect message
+[2024-10-22 01:22:41] Disconnecting: PlayerID: 76561198827118909 Name: poppaduck Character: BabyOnBaby
+[2024-10-22 01:22:41] BattlEye Print: Player #72 poppaduck disconnected
+[2024-10-22 01:22:47] Added 76561199578308535[0] "insano" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:22:47] Sending verification request to queued player 76561199578308535[0] "insano"
+[2024-10-22 01:22:47] Received authentication request from queued player 76561199578308535[0] "insano"
+[2024-10-22 01:22:47] Submitted Steam authentication request for queued player 76561199578308535[0] "insano"
+[2024-10-22 01:22:47] Submitted Steam group request for queued player 76561199578308535[0] "insano"
+[2024-10-22 01:22:48] Accepting queued player 76561199578308535[0] "insano"
+[2024-10-22 01:22:48] BattlEye Print: Player #82 insano (181.23.73.138:58713) connected
+[2024-10-22 01:22:48] BattlEye Print: Player #82 insano - BE GUID: 6ba2a6a80f09dab376f194bd615d82bb
+[2024-10-22 01:22:48] Connecting: PlayerID: 76561199578308535 Name: insano Character: F7
+[2024-10-22 01:22:58] Added 76561199552951087[0] "Dr. Jones" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:22:58] Sending verification request to queued player 76561199552951087[0] "Dr. Jones"
+[2024-10-22 01:22:58] Received authentication request from queued player 76561199552951087[0] "Dr. Jones"
+[2024-10-22 01:22:58] Submitted Steam authentication request for queued player 76561199552951087[0] "Dr. Jones"
+[2024-10-22 01:22:58] Submitted Steam group request for queued player 76561199552951087[0] "Dr. Jones"
+[2024-10-22 01:22:59] Accepting queued player 76561199552951087[0] "Dr. Jones"
+[2024-10-22 01:22:59] BattlEye Print: Player #83 Dr. Jones (72.219.224.139:57700) connected
+[2024-10-22 01:22:59] BattlEye Print: Player #83 Dr. Jones - BE GUID: 392fcd53f4487ce3ce44c1d339508123
+[2024-10-22 01:22:59] Connecting: PlayerID: 76561199552951087 Name: Dr. Jones Character: Dr. Jones
+[2024-10-22 01:23:38] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:23:56] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:24:22] Removing player steamid:76561199578308535 after graceful disconnect message
+[2024-10-22 01:24:22] Disconnecting: PlayerID: 76561199578308535 Name: insano Character: F7
+[2024-10-22 01:24:22] BattlEye Print: Player #82 insano disconnected
+[2024-10-22 01:25:36] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:25:38] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:25:50] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:25:52] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:26:55] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-22 01:26:57] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:27:03] Added 76561199055307626[0] "Steve" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:27:03] Sending verification request to queued player 76561199055307626[0] "Steve"
+[2024-10-22 01:27:03] Received authentication request from queued player 76561199055307626[0] "Steve"
+[2024-10-22 01:27:03] Submitted Steam authentication request for queued player 76561199055307626[0] "Steve"
+[2024-10-22 01:27:03] Submitted Steam group request for queued player 76561199055307626[0] "Steve"
+[2024-10-22 01:27:04] Accepting queued player 76561199055307626[0] "Steve"
+[2024-10-22 01:27:04] BattlEye Print: Player #84 Steve (67.171.100.39:63690) connected
+[2024-10-22 01:27:04] BattlEye Print: Player #84 Steve - BE GUID: cae9c21a940dd82a8708ba3fd0c70921
+[2024-10-22 01:27:04] Connecting: PlayerID: 76561199055307626 Name: Steve Character: BaccDoor
+[2024-10-22 01:27:17] Failed to find anyone called BED.
+[2024-10-22 01:27:27] Successfully teleported Rigbone to bed!
+[2024-10-22 01:27:42] Added 76561199562886753[0] "PizzaKing4210" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:27:42] Sending verification request to queued player 76561199562886753[0] "PizzaKing4210"
+[2024-10-22 01:27:42] Received authentication request from queued player 76561199562886753[0] "PizzaKing4210"
+[2024-10-22 01:27:42] Submitted Steam authentication request for queued player 76561199562886753[0] "PizzaKing4210"
+[2024-10-22 01:27:44] Accepting queued player 76561199562886753[0] "PizzaKing4210"
+[2024-10-22 01:27:44] BattlEye Print: Player #85 PizzaKing4210 (73.153.22.7:57823) connected
+[2024-10-22 01:27:44] BattlEye Print: Player #85 PizzaKing4210 - BE GUID: 53e5314b92ea69a2725a908b75271194
+[2024-10-22 01:27:44] Connecting: PlayerID: 76561199562886753 Name: PizzaKing4210 Character: PizzaKing4210
+[2024-10-22 01:28:31] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:28:35] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:29:04] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-22 01:29:11] Successfully taking a screenshot of fashonium.
+[2024-10-22 01:29:12] Removing player steamid:76561199562886753 after graceful disconnect message
+[2024-10-22 01:29:12] Disconnecting: PlayerID: 76561199562886753 Name: PizzaKing4210 Character: PizzaKing4210
+[2024-10-22 01:29:12] BattlEye Print: Player #85 PizzaKing4210 disconnected
+[2024-10-22 01:29:18] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:29:32] Removing player steamid:76561199337052858 after graceful disconnect message
+[2024-10-22 01:29:32] Disconnecting: PlayerID: 76561199337052858 Name: DVG Character: DVG
+[2024-10-22 01:29:32] BattlEye Print: Player #69 DVG disconnected
+[2024-10-22 01:29:37] Added 76561198188469243[0] "Greg" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:29:37] Sending verification request to queued player 76561198188469243[0] "Greg"
+[2024-10-22 01:29:37] Received authentication request from queued player 76561198188469243[0] "Greg"
+[2024-10-22 01:29:37] Submitted Steam authentication request for queued player 76561198188469243[0] "Greg"
+[2024-10-22 01:29:38] Accepting queued player 76561198188469243[0] "Greg"
+[2024-10-22 01:29:38] BattlEye Print: Player #85 Greg (24.3.33.129:52924) connected
+[2024-10-22 01:29:38] BattlEye Print: Player #85 Greg - BE GUID: 198a7ee6fab839316a16a5fc1733e8d2
+[2024-10-22 01:29:38] Connecting: PlayerID: 76561198188469243 Name: Greg Character: FrontDoor
+[2024-10-22 01:30:12] Successfully saved the game.
+[2024-10-22 01:30:23] Removing player steamid:76561198220389097 after graceful disconnect message
+[2024-10-22 01:30:23] Disconnecting: PlayerID: 76561198220389097 Name: Mr Knife Character: Mr Knife
+[2024-10-22 01:30:23] BattlEye Print: Player #56 Mr Knife disconnected
+[2024-10-22 01:30:35] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-22 01:30:35] Added 76561199033507085[0] "Breezy" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:30:35] Sending verification request to queued player 76561199033507085[0] "Breezy"
+[2024-10-22 01:30:35] Received authentication request from queued player 76561199033507085[0] "Breezy"
+[2024-10-22 01:30:35] Submitted Steam authentication request for queued player 76561199033507085[0] "Breezy"
+[2024-10-22 01:30:35] Submitted Steam group request for queued player 76561199033507085[0] "Breezy"
+[2024-10-22 01:30:36] Accepting queued player 76561199033507085[0] "Breezy"
+[2024-10-22 01:30:36] BattlEye Print: Player #86 Breezy (76.226.75.80:59831) connected
+[2024-10-22 01:30:36] BattlEye Print: Player #86 Breezy - BE GUID: 75aaae1a00485a31421a0f95267c3b65
+[2024-10-22 01:30:36] Connecting: PlayerID: 76561199033507085 Name: Breezy Character: Breezykg
+[2024-10-22 01:30:44] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:30:44] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-22 01:30:45] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:30:46] 76561198166043286[0] "Rigbone" turned off spectator stats overlay admin mode
+[2024-10-22 01:30:55] 76561198166043286[0] "Rigbone" turned on spectator stats overlay admin mode
+[2024-10-22 01:31:17] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:31:29] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:32:09] Removing player steamid:76561198106436368 after graceful disconnect message
+[2024-10-22 01:32:09] Disconnecting: PlayerID: 76561198106436368 Name: inaba Character: INABAAAAAAA
+[2024-10-22 01:32:09] BattlEye Print: Player #60 inaba disconnected
+[2024-10-22 01:32:14] Added 76561198261537608[0] "NickBeSlick" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:32:14] Sending verification request to queued player 76561198261537608[0] "NickBeSlick"
+[2024-10-22 01:32:14] Received authentication request from queued player 76561198261537608[0] "NickBeSlick"
+[2024-10-22 01:32:14] Submitted Steam authentication request for queued player 76561198261537608[0] "NickBeSlick"
+[2024-10-22 01:32:14] Submitted Steam group request for queued player 76561198261537608[0] "NickBeSlick"
+[2024-10-22 01:32:15] Accepting queued player 76561198261537608[0] "NickBeSlick"
+[2024-10-22 01:32:15] BattlEye Print: Player #87 NickBeSlick (96.27.213.228:65208) connected
+[2024-10-22 01:32:15] BattlEye Print: Player #87 NickBeSlick - BE GUID: 539c7fab7bd751ded1eae393f2d56566
+[2024-10-22 01:32:15] Connecting: PlayerID: 76561198261537608 Name: NickBeSlick Character: NOTMeLikeBigBoom
+[2024-10-22 01:32:17] Removing player steamid:76561199176312779 after graceful disconnect message
+[2024-10-22 01:32:17] Disconnecting: PlayerID: 76561199176312779 Name: fashonium Character: wonderfultime
+[2024-10-22 01:32:17] BattlEye Print: Player #62 fashonium disconnected
+[2024-10-22 01:32:20] Successfully taking a screenshot of Steve.
+[2024-10-22 01:32:59] Added 76561198070140610[0] "T Pain" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:32:59] Sending verification request to queued player 76561198070140610[0] "T Pain"
+[2024-10-22 01:33:00] Received authentication request from queued player 76561198070140610[0] "T Pain"
+[2024-10-22 01:33:00] Submitted Steam authentication request for queued player 76561198070140610[0] "T Pain"
+[2024-10-22 01:33:01] Accepting queued player 76561198070140610[0] "T Pain"
+[2024-10-22 01:33:01] BattlEye Print: Player #88 T Pain (172.56.123.176:1481) connected
+[2024-10-22 01:33:01] BattlEye Print: Player #88 T Pain - BE GUID: 15acc43343253a40d6bb2652a541ecd3
+[2024-10-22 01:33:01] Connecting: PlayerID: 76561198070140610 Name: T Pain Character: Noraa 2.0
+[2024-10-22 01:34:25] Added 76561199621092157[0] "notappening" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:34:25] Sending verification request to queued player 76561199621092157[0] "notappening"
+[2024-10-22 01:34:25] Received authentication request from queued player 76561199621092157[0] "notappening"
+[2024-10-22 01:34:25] Submitted Steam authentication request for queued player 76561199621092157[0] "notappening"
+[2024-10-22 01:34:27] Accepting queued player 76561199621092157[0] "notappening"
+[2024-10-22 01:34:27] BattlEye Print: Player #89 notappening (24.51.8.133:49738) connected
+[2024-10-22 01:34:27] BattlEye Print: Player #89 notappening - BE GUID: 5fd967c1b28b9224b3e765fa7fb546d7
+[2024-10-22 01:34:27] Connecting: PlayerID: 76561199621092157 Name: notappening Character: notappening
+[2024-10-22 01:35:14] Added 76561198310952079[0] "Peachy" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:35:14] Sending verification request to queued player 76561198310952079[0] "Peachy"
+[2024-10-22 01:35:15] Received authentication request from queued player 76561198310952079[0] "Peachy"
+[2024-10-22 01:35:15] Submitted Steam authentication request for queued player 76561198310952079[0] "Peachy"
+[2024-10-22 01:35:15] Submitted Steam group request for queued player 76561198310952079[0] "Peachy"
+[2024-10-22 01:35:16] Accepting queued player 76561198310952079[0] "Peachy"
+[2024-10-22 01:35:16] BattlEye Print: Player #90 Peachy (196.3.204.207:52560) connected
+[2024-10-22 01:35:16] BattlEye Print: Player #90 Peachy - BE GUID: 43e416b0d115aaef40b846a52c900015
+[2024-10-22 01:35:16] Connecting: PlayerID: 76561198310952079 Name: Peachy Character: skullord
+[2024-10-22 01:35:46] Added 76561198994803541[0] "kuromi" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:35:46] Sending verification request to queued player 76561198994803541[0] "kuromi"
+[2024-10-22 01:35:46] Received authentication request from queued player 76561198994803541[0] "kuromi"
+[2024-10-22 01:35:46] Submitted Steam authentication request for queued player 76561198994803541[0] "kuromi"
+[2024-10-22 01:35:47] Accepting queued player 76561198994803541[0] "kuromi"
+[2024-10-22 01:35:47] BattlEye Print: Player #91 kuromi (38.74.30.39:53481) connected
+[2024-10-22 01:35:47] BattlEye Print: Player #91 kuromi - BE GUID: b0bb3a15a2bb93cb9a4bfc84f5c967f7
+[2024-10-22 01:35:47] Connecting: PlayerID: 76561198994803541 Name: kuromi Character: RIGHTBOOB
+[2024-10-22 01:36:12] Added 76561198224512188[0] "Саня-сигма-гучи" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:36:12] Sending verification request to queued player 76561198224512188[0] "Саня-сигма-гучи"
+[2024-10-22 01:36:12] Received authentication request from queued player 76561198224512188[0] "Саня-сигма-гучи"
+[2024-10-22 01:36:12] Submitted Steam authentication request for queued player 76561198224512188[0] "Саня-сигма-гучи"
+[2024-10-22 01:36:13] Accepting queued player 76561198224512188[0] "Саня-сигма-гучи"
+[2024-10-22 01:36:13] BattlEye Print: Player #92 Саня-сигма-гучи (79.105.117.215:6012) connected
+[2024-10-22 01:36:13] BattlEye Print: Player #92 Саня-сигма-гучи - BE GUID: e2d78fffaee8c5dea81cc7d828118678
+[2024-10-22 01:36:13] Connecting: PlayerID: 76561198224512188 Name: Саня-сигма-гучи Character: #cobra УБИВАШКА
+[2024-10-22 01:36:13] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "#cobra УБИВАШКА [Саня-сигма-гучи]/Third/Skeleton/Left_Hip/Left_Leg"
+[2024-10-22 01:36:13] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "#cobra УБИВАШКА [Саня-сигма-гучи]/Third/Skeleton/Right_Hip/Right_Leg"
+[2024-10-22 01:36:13] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "#cobra УБИВАШКА [Саня-сигма-гучи]/Third/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-22 01:36:13] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "#cobra УБИВАШКА [Саня-сигма-гучи]/Third/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-22 01:36:13] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "#cobra УБИВАШКА [Саня-сигма-гучи]/Third/Skeleton/Spine/Skull"
+[2024-10-22 01:36:13] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "#cobra УБИВАШКА [Саня-сигма-гучи]/Third/Skeleton/Spine"
+[2024-10-22 01:36:42] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:36:46] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:36:52] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:37:09] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:37:19] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:37:23] Removing player steamid:76561198224512188 after graceful disconnect message
+[2024-10-22 01:37:23] Disconnecting: PlayerID: 76561198224512188 Name: Саня-сигма-гучи Character: #cobra УБИВАШКА
+[2024-10-22 01:37:23] BattlEye Print: Player #92 Саня-сигма-гучи disconnected
+[2024-10-22 01:37:24] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:39:13] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:39:15] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:40:00] Added 76561198226951376[0] "Dozz" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:40:00] Sending verification request to queued player 76561198226951376[0] "Dozz"
+[2024-10-22 01:40:00] Received authentication request from queued player 76561198226951376[0] "Dozz"
+[2024-10-22 01:40:00] Submitted Steam authentication request for queued player 76561198226951376[0] "Dozz"
+[2024-10-22 01:40:01] Accepting queued player 76561198226951376[0] "Dozz"
+[2024-10-22 01:40:01] BattlEye Print: Player #92 Dozz (207.81.152.246:61553) connected
+[2024-10-22 01:40:01] BattlEye Print: Player #92 Dozz - BE GUID: 5977cd78a23807129a864cbbe35e244d
+[2024-10-22 01:40:01] Connecting: PlayerID: 76561198226951376 Name: Dozz Character: Wacky Chilliwacky
+[2024-10-22 01:40:18] Successfully saved the game.
+[2024-10-22 01:40:44] Removing player steamid:76561198261537608 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:40:44] Disconnecting: PlayerID: 76561198261537608 Name: NickBeSlick Character: NOTMeLikeBigBoom
+[2024-10-22 01:40:44] BattlEye Print: Player #87 NickBeSlick disconnected
+[2024-10-22 01:40:56] Added 76561198928224023[0] "Aziwrath" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:40:56] Sending verification request to queued player 76561198928224023[0] "Aziwrath"
+[2024-10-22 01:40:56] Received authentication request from queued player 76561198928224023[0] "Aziwrath"
+[2024-10-22 01:40:56] Submitted Steam authentication request for queued player 76561198928224023[0] "Aziwrath"
+[2024-10-22 01:40:56] Submitted Steam group request for queued player 76561198928224023[0] "Aziwrath"
+[2024-10-22 01:40:57] Accepting queued player 76561198928224023[0] "Aziwrath"
+[2024-10-22 01:40:57] BattlEye Print: Player #93 Aziwrath (172.58.13.177:62104) connected
+[2024-10-22 01:40:57] BattlEye Print: Player #93 Aziwrath - BE GUID: 8242dd5da0261b02ebb4ed299d195126
+[2024-10-22 01:40:57] Connecting: PlayerID: 76561198928224023 Name: Aziwrath Character: John Smith
+[2024-10-22 01:41:26] Removing player steamid:76561198994803541 after graceful disconnect message
+[2024-10-22 01:41:26] Disconnecting: PlayerID: 76561198994803541 Name: kuromi Character: RIGHTBOOB
+[2024-10-22 01:41:26] BattlEye Print: Player #91 kuromi disconnected
+[2024-10-22 01:42:57] Added 76561199793678780[0] "gfosnock04" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:42:57] Sending verification request to queued player 76561199793678780[0] "gfosnock04"
+[2024-10-22 01:42:57] Received authentication request from queued player 76561199793678780[0] "gfosnock04"
+[2024-10-22 01:42:57] Submitted Steam authentication request for queued player 76561199793678780[0] "gfosnock04"
+[2024-10-22 01:42:58] Accepting queued player 76561199793678780[0] "gfosnock04"
+[2024-10-22 01:42:58] BattlEye Print: Player #94 gfosnock04 (75.243.24.106:59927) connected
+[2024-10-22 01:42:58] BattlEye Print: Player #94 gfosnock04 - BE GUID: 5582e3802348706dcbf7d9bdde8a88d5
+[2024-10-22 01:42:58] Connecting: PlayerID: 76561199793678780 Name: gfosnock04 Character: gfosnock04
+[2024-10-22 01:43:01] Removing player steamid:76561199793678780 after graceful disconnect message
+[2024-10-22 01:43:01] Disconnecting: PlayerID: 76561199793678780 Name: gfosnock04 Character: gfosnock04
+[2024-10-22 01:43:01] BattlEye Print: Player #94 gfosnock04 disconnected
+[2024-10-22 01:43:12] Removing player steamid:76561199792215021 after graceful disconnect message
+[2024-10-22 01:43:12] Disconnecting: PlayerID: 76561199792215021 Name: What? Character: What?
+[2024-10-22 01:43:12] BattlEye Print: Player #80 What? disconnected
+[2024-10-22 01:43:38] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:43:42] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:43:50] Added 76561199138113769[0] "zadm20" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:43:50] Sending verification request to queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:43:50] Received authentication request from queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:43:50] Submitted Steam authentication request for queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:43:51] Accepting queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:43:51] BattlEye Print: Player #94 zadm20 (104.129.115.120:8072) connected
+[2024-10-22 01:43:51] BattlEye Print: Player #94 zadm20 - BE GUID: 60e49c46bb251cfca04020a8640a0134
+[2024-10-22 01:43:51] Connecting: PlayerID: 76561199138113769 Name: zadm20 Character: adzz
+[2024-10-22 01:43:54] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:43:55] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:43:57] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:44:01] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:44:23] Added 76561199510935501[0] "the unturned experience" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:44:23] Sending verification request to queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:44:23] Received authentication request from queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:44:23] Submitted Steam authentication request for queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:44:24] Accepting queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:44:24] BattlEye Print: Player #95 the unturned experience (73.7.47.49:54343) connected
+[2024-10-22 01:44:24] BattlEye Print: Player #95 the unturned experience - BE GUID: 724ff1e2c1b7f524111c2fcc0e685164
+[2024-10-22 01:44:24] Connecting: PlayerID: 76561199510935501 Name: the unturned experience Character: fantastic
+[2024-10-22 01:44:40] Removing player steamid:76561199510935501 after graceful disconnect message
+[2024-10-22 01:44:40] Disconnecting: PlayerID: 76561199510935501 Name: the unturned experience Character: fantastic
+[2024-10-22 01:44:40] BattlEye Print: Player #95 the unturned experience disconnected
+[2024-10-22 01:45:04] Added 76561199510935501[0] "the unturned experience" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:45:04] Sending verification request to queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:45:04] Received authentication request from queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:45:04] Submitted Steam authentication request for queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:45:05] Accepting queued player 76561199510935501[0] "the unturned experience"
+[2024-10-22 01:45:05] BattlEye Print: Player #95 the unturned experience (73.7.47.49:56501) connected
+[2024-10-22 01:45:05] BattlEye Print: Player #95 the unturned experience - BE GUID: 724ff1e2c1b7f524111c2fcc0e685164
+[2024-10-22 01:45:05] Connecting: PlayerID: 76561199510935501 Name: the unturned experience Character: the unturned experience
+[2024-10-22 01:46:25] Removing player steamid:76561198070140610 after graceful disconnect message
+[2024-10-22 01:46:25] Disconnecting: PlayerID: 76561198070140610 Name: T Pain Character: Noraa 2.0
+[2024-10-22 01:46:25] BattlEye Print: Player #88 T Pain disconnected
+[2024-10-22 01:46:42] Player finished session: 76561199621092157
+[2024-10-22 01:46:42] Disconnecting: PlayerID: 76561199621092157 Name: notappening Character: notappening
+[2024-10-22 01:46:42] BattlEye Print: Player #89 notappening disconnected
+[2024-10-22 01:46:52] Failed to find anyone called BED.
+[2024-10-22 01:46:59] Successfully teleported Rigbone to bed!
+[2024-10-22 01:48:19] Added 76561198264513120[0] "Motoson" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:48:19] Sending verification request to queued player 76561198264513120[0] "Motoson"
+[2024-10-22 01:48:19] Received authentication request from queued player 76561198264513120[0] "Motoson"
+[2024-10-22 01:48:19] Submitted Steam authentication request for queued player 76561198264513120[0] "Motoson"
+[2024-10-22 01:48:20] Accepting queued player 76561198264513120[0] "Motoson"
+[2024-10-22 01:48:20] BattlEye Print: Player #96 Motoson (64.201.204.189:57601) connected
+[2024-10-22 01:48:20] BattlEye Print: Player #96 Motoson - BE GUID: 9ca14ff6c2ba2954a3f70cf93d3725b8
+[2024-10-22 01:48:20] Connecting: PlayerID: 76561198264513120 Name: Motoson Character: Motoson
+[2024-10-22 01:48:21] Added 76561198356332484[0] "F5 | buddytrevs" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:48:21] Sending verification request to queued player 76561198356332484[0] "F5 | buddytrevs"
+[2024-10-22 01:48:22] Received authentication request from queued player 76561198356332484[0] "F5 | buddytrevs"
+[2024-10-22 01:48:22] Submitted Steam authentication request for queued player 76561198356332484[0] "F5 | buddytrevs"
+[2024-10-22 01:48:23] Accepting queued player 76561198356332484[0] "F5 | buddytrevs"
+[2024-10-22 01:48:23] BattlEye Print: Player #97 F5 | buddytrevs (159.235.39.78:54950) connected
+[2024-10-22 01:48:23] BattlEye Print: Player #97 F5 | buddytrevs - BE GUID: a01abbd3b7c87635bb9119c7e0c726d9
+[2024-10-22 01:48:23] Connecting: PlayerID: 76561198356332484 Name: F5 | buddytrevs Character: twitch.tv/buddy_trevss
+[2024-10-22 01:48:33] Added 76561198345411025[0] "aydahn" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:48:33] Sending verification request to queued player 76561198345411025[0] "aydahn"
+[2024-10-22 01:48:34] Received authentication request from queued player 76561198345411025[0] "aydahn"
+[2024-10-22 01:48:34] Submitted Steam authentication request for queued player 76561198345411025[0] "aydahn"
+[2024-10-22 01:48:35] Accepting queued player 76561198345411025[0] "aydahn"
+[2024-10-22 01:48:35] BattlEye Print: Player #98 aydahn (67.21.186.48:27482) connected
+[2024-10-22 01:48:35] BattlEye Print: Player #98 aydahn - BE GUID: 45cbd87ae60b7b6c16ef23e2b2de70f5
+[2024-10-22 01:48:35] Connecting: PlayerID: 76561198345411025 Name: aydahn Character: Liam
+[2024-10-22 01:48:38] Successfully teleported Rigbone to bed!
+[2024-10-22 01:48:46] Kicking steamid:76561198988597068 because their ping (785 ms) exceeds limit (750 ms)
+[2024-10-22 01:48:46] Disconnecting: PlayerID: 76561198988597068 Name: ganont Character: ganont
+[2024-10-22 01:48:46] BattlEye Print: Player #76 ganont disconnected
+[2024-10-22 01:49:29] Removing player steamid:76561199138113769 after graceful disconnect message
+[2024-10-22 01:49:29] Disconnecting: PlayerID: 76561199138113769 Name: zadm20 Character: adzz
+[2024-10-22 01:49:29] BattlEye Print: Player #94 zadm20 disconnected
+[2024-10-22 01:49:52] Added 76561199138113769[0] "zadm20" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:49:52] Sending verification request to queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:49:52] Received authentication request from queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:49:52] Submitted Steam authentication request for queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:49:53] Accepting queued player 76561199138113769[0] "zadm20"
+[2024-10-22 01:49:53] BattlEye Print: Player #99 zadm20 (104.129.115.120:8181) connected
+[2024-10-22 01:49:53] BattlEye Print: Player #99 zadm20 - BE GUID: 60e49c46bb251cfca04020a8640a0134
+[2024-10-22 01:49:53] Connecting: PlayerID: 76561199138113769 Name: zadm20 Character: adzz
+[2024-10-22 01:50:04] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:50:14] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:50:24] Successfully saved the game.
+[2024-10-22 01:50:57] Successfully taking a screenshot of the unturned experience.
+[2024-10-22 01:51:02] Successfully taking a screenshot of the unturned experience.
+[2024-10-22 01:51:07] Successfully teleported Rigbone to bed!
+[2024-10-22 01:52:34] Added 76561198988597068[0] "ganont" to queue position 0 (shouldVerify: True)
+[2024-10-22 01:52:34] Sending verification request to queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:52:34] Received authentication request from queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:52:34] Submitted Steam authentication request for queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:52:35] Accepting queued player 76561198988597068[0] "ganont"
+[2024-10-22 01:52:35] BattlEye Print: Player #100 ganont (73.96.210.159:62173) connected
+[2024-10-22 01:52:35] BattlEye Print: Player #100 ganont - BE GUID: 6a3bb538796267a315830622e6cb8dd8
+[2024-10-22 01:52:35] Connecting: PlayerID: 76561198988597068 Name: ganont Character: ganont
+[2024-10-22 01:53:25] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:53:28] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:53:46] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:54:17] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:54:42] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:54:45] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:55:05] Removing player steamid:76561198344498310 due to transport failure (ClosedByPeer Reason: 2999 Message: "Application closed connection")
+[2024-10-22 01:55:05] Disconnecting: PlayerID: 76561198344498310 Name: Rick Astley from Rick Roll Character: Red Star
+[2024-10-22 01:55:05] BattlEye Print: Player #77 Rick Astley from Rick Roll disconnected
+[2024-10-22 01:55:18] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:55:21] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:55:43] Removing player steamid:76561198228549580 after graceful disconnect message
+[2024-10-22 01:55:43] Disconnecting: PlayerID: 76561198228549580 Name: LuigiAndPug420 Character: Luigi420
+[2024-10-22 01:55:43] BattlEye Print: Player #22 LuigiAndPug420 disconnected
+[2024-10-22 01:55:51] Removing player steamid:76561198310952079 after graceful disconnect message
+[2024-10-22 01:55:51] Disconnecting: PlayerID: 76561198310952079 Name: Peachy Character: skullord
+[2024-10-22 01:55:51] BattlEye Print: Player #90 Peachy disconnected
+[2024-10-22 01:55:58] 76561198166043286[0] "Rigbone" entered freecam admin mode
+[2024-10-22 01:56:11] 76561198166043286[0] "Rigbone" exited freecam admin mode
+[2024-10-22 01:56:28] Kicking player 76561198166043286 because "unspecified"
+[2024-10-22 01:56:28] BattlEye Print: Player #67 Rigbone disconnected
+[2024-10-22 01:56:28] Successfully kicked Rigbone!

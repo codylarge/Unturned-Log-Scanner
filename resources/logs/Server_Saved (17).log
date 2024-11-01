@@ -1,0 +1,298 @@
+﻿[2024-10-23 20:09:11] Reflect net invokables: 30ms
+[2024-10-23 20:09:11] Scheduled CHRISTMAS from 12/7/2024 12:00:00 AM to 1/2/2025 12:00:00 PM local time (12/7/2024 8:00:00 AM to 1/2/2025 8:00:00 PM UTC)
+[2024-10-23 20:09:11] Scheduled HALLOWEEN from 10/20/2024 12:00:00 AM to 11/1/2024 12:00:00 PM local time (10/20/2024 7:00:00 AM to 11/1/2024 7:00:00 PM UTC)
+[2024-10-23 20:09:11] Scheduled VALENTINES from 2/14/2024 12:00:00 AM to 2/14/2024 11:59:59 PM local time (2/14/2024 8:00:00 AM to 2/15/2024 7:59:59 AM UTC)
+[2024-10-23 20:09:11] Scheduled APRIL_FOOLS from 4/1/2024 12:00:00 AM to 4/1/2024 11:59:59 PM local time (4/1/2024 7:00:00 AM to 4/2/2024 6:59:59 AM UTC)
+[2024-10-23 20:09:11] Scheduled PRIDE_MONTH from 6/1/2024 12:00:00 AM to 6/30/2024 11:59:59 PM local time (6/1/2024 7:00:00 AM to 7/1/2024 6:59:59 AM UTC)
+[2024-10-23 20:09:11] Unturned overriding Steam AppId with "304930"
+[2024-10-23 20:09:11] Game version: 3.24.6.1 Engine version: 2021.3.29f1
+[2024-10-23 20:09:11] Executing 5 potential game command(s) from the command-line:
+[2024-10-23 20:09:11] Did not match "nographics" with any commands
+[2024-10-23 20:09:11] Did not match "batchmode" with any commands
+[2024-10-23 20:09:11] Successfully bound IP to 170.39.215.177!
+[2024-10-23 20:09:11] Successfully set port to 27215!
+[2024-10-23 20:09:11] Successfully set max players to 30!
+[2024-10-23 20:09:11] Successfully bound IP to 170.39.215.177!
+[2024-10-23 20:09:11] Successfully set port to 27215!
+[2024-10-23 20:09:11] Successfully set name to Washington Vanilla+!
+[2024-10-23 20:09:11] Successfully set welcome message to Join the server's Discord from the main menu OR via the UPDATED code: QjJhTgsAH7!
+[2024-10-23 20:09:11] Successfully set chatrate to 0!
+[2024-10-23 20:09:11] Successfully set cycle to 2880!
+[2024-10-23 20:09:11] Successfully set map to Washington!
+[2024-10-23 20:09:11] Successfully set gamemode to normal!
+[2024-10-23 20:09:11] Successfully set owner to 76561198075897932!
+[2024-10-23 20:09:11] Successfully disabled password!
+[2024-10-23 20:09:11] Successfully set perspective to both!
+[2024-10-23 20:09:11] Successfully set queue size to 5!
+[2024-10-23 20:09:11] Successfully set timeout to 500!
+[2024-10-23 20:09:11] Successfully set log!
+[2024-10-23 20:09:11] Successfully enabled cheats.
+[2024-10-23 20:09:11] Successfully hid admins.
+[2024-10-23 20:09:11] Successfully set voting configuration!
+[2024-10-23 20:09:11] Platform: WindowsServer
+[2024-10-23 20:09:11] Operating System: Windows 10  (10.0.20348) 64bit
+[2024-10-23 20:09:11] System Memory: 130996MB
+[2024-10-23 20:09:11] Vanilla Built-in Assets added asset search location "D:\TCAFiles\Users\codyl1\8557299\Bundles"
+[2024-10-23 20:09:11] Server Common (Legacy) added asset search location "D:\TCAFiles\Users\codyl1\8557299\Bundles\Workshop\Content"
+[2024-10-23 20:09:11] Per-Server (Legacy) added asset search location "D:\TCAFiles\Users\codyl1\8557299\Servers\Saved\Workshop\Content"
+[2024-10-23 20:09:11] Per-Server (Legacy) added asset search location "D:\TCAFiles\Users\codyl1\8557299\Servers\Saved\Bundles"
+[2024-10-23 20:09:11] Discovered level "Alpha Valley" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Alpha Valley"
+[2024-10-23 20:09:11] Discovered level "Destruction" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Destruction"
+[2024-10-23 20:09:11] Discovered level "Germany" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Germany"
+[2024-10-23 20:09:11] Discovered level "Monolith" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Monolith"
+[2024-10-23 20:09:11] Discovered level "Paintball_Arena_0" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Paintball_Arena_0"
+[2024-10-23 20:09:11] Discovered level "PEI" at "D:\TCAFiles\Users\codyl1\8557299\Maps\PEI"
+[2024-10-23 20:09:11] Discovered level "Russia" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Russia"
+[2024-10-23 20:09:11] Discovered level "Tutorial" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Tutorial"
+[2024-10-23 20:09:11] Discovered level "Washington" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Washington"
+[2024-10-23 20:09:11] Discovered level "Yukon" at "D:\TCAFiles\Users\codyl1\8557299\Maps\Yukon"
+[2024-10-23 20:09:11] Searched 3 of 4 locations and found 883 asset files...
+[2024-10-23 20:09:11] Read 0 of 883 asset file contents into memory...
+[2024-10-23 20:09:11] Loaded 0 of 883 assets...
+[2024-10-23 20:09:11] Searched 3 of 4 locations and found 1668 asset files...
+[2024-10-23 20:09:11] Read 0 of 1668 asset file contents into memory...
+[2024-10-23 20:09:11] Loaded 0 of 1668 assets...
+[2024-10-23 20:09:12] Searched 3 of 4 locations and found 2493 asset files...
+[2024-10-23 20:09:12] Read 0 of 2493 asset file contents into memory...
+[2024-10-23 20:09:12] Loaded 0 of 2493 assets...
+[2024-10-23 20:09:12] Searched 3 of 4 locations and found 3249 asset files...
+[2024-10-23 20:09:12] Read 0 of 3249 asset file contents into memory...
+[2024-10-23 20:09:12] Loaded 0 of 3249 assets...
+[2024-10-23 20:09:12] Searched 3 of 4 locations and found 4258 asset files...
+[2024-10-23 20:09:12] Read 0 of 4258 asset file contents into memory...
+[2024-10-23 20:09:12] Loaded 0 of 4258 assets...
+[2024-10-23 20:09:12] Searched 3 of 4 locations and found 5106 asset files...
+[2024-10-23 20:09:12] Read 0 of 5106 asset file contents into memory...
+[2024-10-23 20:09:12] Loaded 0 of 5106 assets...
+[2024-10-23 20:09:12] Searched 4 of 4 locations and found 5507 asset files...
+[2024-10-23 20:09:12] Read 0 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Loaded 0 of 5507 assets...
+[2024-10-23 20:09:12] Loading asset bundle "core.masterbundle" from "D:\TCAFiles\Users\codyl1\8557299\Bundles"...
+[2024-10-23 20:09:12] Loaded 0 of 1 asset bundles...
+[2024-10-23 20:09:12] Read 124 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 269 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 516 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 663 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 796 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 1007 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 1173 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 1347 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 1536 of 5507 asset file contents into memory...
+[2024-10-23 20:09:12] Read 1717 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 1914 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 2077 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 2219 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 2381 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 2566 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 2808 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 3058 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 3300 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 3544 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 3784 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4030 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4237 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4381 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4516 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4646 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4793 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 4943 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 5088 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 5230 of 5507 asset file contents into memory...
+[2024-10-23 20:09:13] Read 5376 of 5507 asset file contents into memory...
+[2024-10-23 20:09:14] Read 5507 of 5507 asset file contents into memory...
+[2024-10-23 20:09:17] Loading asset bundle "core.masterbundle" from "D:\TCAFiles\Users\codyl1\8557299\Bundles" took 5.375539s
+[2024-10-23 20:09:17] Loaded 1 of 1 asset bundles...
+[2024-10-23 20:09:17] Loaded 5 of 5507 assets...
+[2024-10-23 20:09:17] Loaded 160 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 191 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 209 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 366 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 425 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 576 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 626 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 658 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 703 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 755 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 796 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1016 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1158 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1178 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1198 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1465 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1608 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 1793 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 2068 of 5507 assets...
+[2024-10-23 20:09:18] Loaded 2118 of 5507 assets...
+[2024-10-23 20:09:19] Loaded 2209 of 5507 assets...
+[2024-10-23 20:09:19] Loaded 2605 of 5507 assets...
+[2024-10-23 20:09:19] Loaded 4675 of 5507 assets...
+[2024-10-23 20:09:19] Loaded 5507 of 5507 assets...
+[2024-10-23 20:09:19] Linking blueprints...
+[2024-10-23 20:09:19] Linking spawns...
+[2024-10-23 20:09:19] Loading miscellaneous...
+[2024-10-23 20:09:19] Loading all assets took 7.3978282s
+[2024-10-23 20:09:19] Loading BattlEye server library from: D:\TCAFiles\Users\codyl1\8557299/BattlEye/BEServer_x64.dll
+[2024-10-23 20:09:19] BattlEye Print: Initialized (v1.218)
+[2024-10-23 20:09:19] Using login token
+[2024-10-23 20:09:19] Initializing ServerTransport_SteamNetworkingSockets
+[2024-10-23 20:09:19] Server listen socket bound to 170.39.215.177:27216
+[2024-10-23 20:09:19] Server P2P listen socket: 196610
+[2024-10-23 20:09:19] Waiting for Steam servers...
+[2024-10-23 20:09:19] Readiness to participate in authenticated communications changed to k_ESteamNetworkingAvailability_Waiting "Waiting for Steam login"
+[2024-10-23 20:09:20] Steam servers ready!
+[2024-10-23 20:09:20] Workshop install folder: D:\TCAFiles\Users\codyl1\8557299/Servers/Saved/Workshop/Steam
+[2024-10-23 20:09:20] 0 workshop item(s) requested
+[2024-10-23 20:09:20] Link spawns: 0 children, 826 sorted/normalized and 749 parents
+[2024-10-23 20:09:20] Adding 5507 asset(s) from origin Vanilla Built-in Assets to server mapping
+[2024-10-23 20:09:20] Server registered 41 Unity physics material names with 24 unique IDs (5 bits)
+[2024-10-23 20:09:20] Survival
+[2024-10-23 20:09:20] No workshop items to monitor for updates
+[2024-10-23 20:09:20] Readiness to participate in authenticated communications changed to k_ESteamNetworkingAvailability_Attempting "Requesting cert"
+[2024-10-23 20:09:20] Loading level: 5%
+[2024-10-23 20:09:20] Readiness to participate in authenticated communications changed to k_ESteamNetworkingAvailability_Current "OK"
+[2024-10-23 20:09:21] Loading level: 10%
+[2024-10-23 20:09:21] Loading level: 15%
+[2024-10-23 20:09:21] Loading level: 21%
+[2024-10-23 20:09:21] Loading level: 26%
+[2024-10-23 20:09:21] Loading level: 31%
+[2024-10-23 20:09:21] Loading level: 36%
+[2024-10-23 20:09:21] Loading level: 42%
+[2024-10-23 20:09:21] Loading level: 47%
+[2024-10-23 20:09:21] Loading level: 52%
+[2024-10-23 20:09:21] Loading level: 57%
+[2024-10-23 20:09:21] Loading level: 63%
+[2024-10-23 20:09:21] Found 4096 foliage v2 tiles
+[2024-10-23 20:09:21] Found 4 foliage used assets in header
+[2024-10-23 20:09:21] Loading 16 landscape tiles
+[2024-10-23 20:09:22] Loading level: 68%
+[2024-10-23 20:09:22] Auto converting legacy volumes
+[2024-10-23 20:09:22] Auto converting legacy nodes
+[2024-10-23 20:09:22] Loading level: 73%
+[2024-10-23 20:09:22] Loading level: 89%
+[2024-10-23 20:09:22] Loading level: 94%
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1408/Root/Skeleton/Spine/Skull"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Skull"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Skull"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Left_Hip/Left_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Right_Hip/Right_Leg"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Left_Shoulder/Left_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Right_Shoulder/Right_Arm"
+[2024-10-23 20:09:23] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "1409/Root/Skeleton/Spine/Skull"
+[2024-10-23 20:09:23] //////////////////////////////////////////////////////
+[2024-10-23 20:09:23] Server Code: 85568392931804987
+[2024-10-23 20:09:23] Your friends can enter this code in the Connect Directly menu to join without port forwarding.
+[2024-10-23 20:09:23] Tip: Use the "CopyServerCode" command to copy the code to your clipboard. Alternatively, in most terminals you can highlight it and press Ctrl+Insert to copy.
+[2024-10-23 20:09:23] //////////////////////////////////////////////////////
+[2024-10-23 20:09:23] Loaded date counter: 145
+[2024-10-23 20:09:23] Loaded weather DefaultRain forecast in 1988.743 seconds
+[2024-10-23 20:09:24] Level "Washington" not using hardcoded special events
+[2024-10-23 20:09:24] Loading level: 100%
+[2024-10-23 20:09:29] Added 76561198075897932[0] "Captain Fatbelly" to queue position 0 (shouldVerify: True)
+[2024-10-23 20:09:29] Sending verification request to queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-23 20:09:29] Received authentication request from queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-23 20:09:29] Submitted Steam authentication request for queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-23 20:09:30] Accepting queued player 76561198075897932[0] "Captain Fatbelly"
+[2024-10-23 20:09:30] BattlEye Print: Player #0 Captain Fatbelly (73.157.85.166:55033) connected
+[2024-10-23 20:09:30] BattlEye Print: Player #0 Captain Fatbelly - BE GUID: c1ca7724d3c334fc7ddccc805cf4b2f3
+[2024-10-23 20:09:30] Connecting: PlayerID: 76561198075897932 Name: Captain Fatbelly Character: Capt. Fatbelly
+[2024-10-23 20:09:30] BattlEye Print: Connected to BE Master
+[2024-10-23 20:09:50] Added 76561198166611705[0] "NedwardL_97" to queue position 0 (shouldVerify: True)
+[2024-10-23 20:09:50] Sending verification request to queued player 76561198166611705[0] "NedwardL_97"
+[2024-10-23 20:09:50] Received authentication request from queued player 76561198166611705[0] "NedwardL_97"
+[2024-10-23 20:09:50] Submitted Steam authentication request for queued player 76561198166611705[0] "NedwardL_97"
+[2024-10-23 20:09:50] Submitted Steam group request for queued player 76561198166611705[0] "NedwardL_97"
+[2024-10-23 20:09:52] Accepting queued player 76561198166611705[0] "NedwardL_97"
+[2024-10-23 20:09:52] BattlEye Print: Player #1 NedwardL_97 (187.153.33.151:60180) connected
+[2024-10-23 20:09:52] BattlEye Print: Player #1 NedwardL_97 - BE GUID: 41f23f45731bbdf5f9bcd8376bdf07e3
+[2024-10-23 20:09:52] Connecting: PlayerID: 76561198166611705 Name: NedwardL_97 Character: NedwardL
+[2024-10-23 20:09:55] Added 76561198988597068[0] "ganont" to queue position 0 (shouldVerify: True)
+[2024-10-23 20:09:55] Sending verification request to queued player 76561198988597068[0] "ganont"
+[2024-10-23 20:09:55] Received authentication request from queued player 76561198988597068[0] "ganont"
+[2024-10-23 20:09:55] Submitted Steam authentication request for queued player 76561198988597068[0] "ganont"
+[2024-10-23 20:09:56] Accepting queued player 76561198988597068[0] "ganont"
+[2024-10-23 20:09:56] BattlEye Print: Player #2 ganont (73.96.210.159:51439) connected
+[2024-10-23 20:09:56] BattlEye Print: Player #2 ganont - BE GUID: 6a3bb538796267a315830622e6cb8dd8
+[2024-10-23 20:09:56] Connecting: PlayerID: 76561198988597068 Name: ganont Character: ganont
+[2024-10-23 20:09:57] Added 76561199228903792[0] "Kegan" to queue position 0 (shouldVerify: True)
+[2024-10-23 20:09:57] Sending verification request to queued player 76561199228903792[0] "Kegan"
+[2024-10-23 20:09:57] Received authentication request from queued player 76561199228903792[0] "Kegan"
+[2024-10-23 20:09:57] Submitted Steam authentication request for queued player 76561199228903792[0] "Kegan"
+[2024-10-23 20:09:58] Accepting queued player 76561199228903792[0] "Kegan"
+[2024-10-23 20:09:58] BattlEye Print: Player #3 Kegan (121.98.84.183:49311) connected
+[2024-10-23 20:09:58] BattlEye Print: Player #3 Kegan - BE GUID: 2dca74f515f490cfa9b11f70cf587abf
+[2024-10-23 20:09:58] Connecting: PlayerID: 76561199228903792 Name: Kegan Character: Kegan
+[2024-10-23 20:10:25] Successfully saved the game.
+[2024-10-23 20:10:25] Successfully taking a screenshot of Kegan.
+[2024-10-23 20:10:31] 76561198075897932[0] "Captain Fatbelly" turned on spectator stats overlay admin mode
+[2024-10-23 20:10:43] Added 76561198357867925[0] "a stranger" to queue position 0 (shouldVerify: True)
+[2024-10-23 20:10:43] Sending verification request to queued player 76561198357867925[0] "a stranger"
+[2024-10-23 20:10:44] Received authentication request from queued player 76561198357867925[0] "a stranger"
+[2024-10-23 20:10:44] Submitted Steam authentication request for queued player 76561198357867925[0] "a stranger"
+[2024-10-23 20:10:45] Accepting queued player 76561198357867925[0] "a stranger"
+[2024-10-23 20:10:45] BattlEye Print: Player #4 a stranger (108.31.129.110:56927) connected
+[2024-10-23 20:10:45] BattlEye Print: Player #4 a stranger - BE GUID: f0a62b079c3e0990e9482c60fe187b03
+[2024-10-23 20:10:45] Connecting: PlayerID: 76561198357867925 Name: a stranger Character: Tree Hugger
