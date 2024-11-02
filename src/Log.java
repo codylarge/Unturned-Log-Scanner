@@ -46,24 +46,43 @@ public class Log {
     public ArrayList<String> getPlayerConnects() {
         boolean nextLineGood = false;
         ArrayList<String> connectionLines = new ArrayList<>();
-        for(String line : fileLines) {
-            if(line.contains("Accepting queued player")) {
+        for (String line : fileLines) {
+            if (line.contains("Accepting queued player")) {
                 connectionLines.add(line);
                 nextLineGood = true;
             } else if (nextLineGood) {
                 nextLineGood = false;
                 connectionLines.add(line);
+
+                // Edge case where user spawns obstructed in which case IP is not displayed. Must be ignored with Account removed to avoid mismatch in data
+                if (line.contains("it was obstructed")) {
+                    connectionLines.removeLast(); // remove the current line
+                    if (!connectionLines.isEmpty()) {
+                        connectionLines.removeLast(); // remove the previous line
+                    }
+                }
             }
         }
         return connectionLines;
     }
 
+    public Object[][] extractAccountIpPair(){
+        ArrayList<String> connectionData = this.getPlayerConnects();
+        ArrayList<String> ips = new ArrayList<>();
+        ArrayList<Account> accounts = new ArrayList<>(); // Corresponding accounts to ips
+
+        // for(String line : connectionData) System.out.println("Connection data line: " + line); // DEBUG
+        return null;
+    }
+
     public ArrayList<String> extractIps() {
         ArrayList<String> connectionData = this.getPlayerConnects();
         ArrayList<String> ips = new ArrayList<>();
-
+        int i = 0;
         for (String line : connectionData) {
             if (line.contains("BattlEye Print: Player")) {
+                i++;
+                System.out.println(i);
                 int endIndex = line.lastIndexOf(")");
                 int startIndex = line.lastIndexOf("(", endIndex);
                 if (startIndex != -1 && endIndex != -1 && startIndex < endIndex) {
@@ -101,6 +120,7 @@ public class Log {
                     playerName = line.substring(nameStartIndex, nameEndIndex);
                 }
                 accounts.add(new Account(steamID, playerName));
+                //System.out.println("Adding line: " + line); // DEBUG
             }
         }
         return accounts;
