@@ -78,11 +78,8 @@ public class Log {
     public ArrayList<String> extractIps() {
         ArrayList<String> connectionData = this.getPlayerConnects();
         ArrayList<String> ips = new ArrayList<>();
-        int i = 0;
         for (String line : connectionData) {
             if (line.contains("BattlEye Print: Player")) {
-                i++;
-                System.out.println(i);
                 int endIndex = line.lastIndexOf(")");
                 int startIndex = line.lastIndexOf("(", endIndex);
                 if (startIndex != -1 && endIndex != -1 && startIndex < endIndex) {

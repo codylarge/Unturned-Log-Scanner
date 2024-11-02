@@ -36,6 +36,13 @@ public class Account {
         return "User: " + name + "(" + steamId + "), Instances: " + instances;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        if(obj instanceof Account comp)
+            return this.steamId.equals(comp.getSteamId());
+        return false;
+    }
+
     public static Account parseAccount(String line) {
         String playerName = null;
         String steamID = null;

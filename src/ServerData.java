@@ -17,20 +17,14 @@ public class ServerData
     }
 
     public void addAccount(String ip, Account account) {
-        System.out.println("Adding account " + account.getName() + " with IP: " + ip);
+        // System.out.println("Adding account " + account.getName() + " with IP: " + ip); // DEBUG
         ArrayList<Account> accounts = playersMap.get(ip);
         // If there is no existing account list, create one
         if (accounts == null) {
-            System.out.println("First instance for " + account.getName());
             accounts = new ArrayList<>();
             accounts.add(account);
             playersMap.put(ip, accounts);
-        } else { // There was an existing account
-            for(Account a : accounts) {
-                System.out.println("Accounts already logged: " + a.getName());
-            }
-            System.out.println("Accounts found for " + account.getName());
-            for(Account a : accounts) System.out.println(a);
+        } else {
             Account existingAccount = null;
             for (Account acc : accounts) {
                 if (acc.getSteamId().equals(account.getSteamId())) {
@@ -49,7 +43,7 @@ public class ServerData
     }
 
     public void logConnectionData(ArrayList<String> ips, ArrayList<Account> accounts) {
-        System.out.println("ips: " + ips.size() + " accounts: " + accounts.size());
+        // System.out.println("ips: " + ips.size() + " accounts: " + accounts.size()); // DEBUG
         for (int i = 0; i < ips.size(); i++) {
             String ip = ips.get(i);
             Account account = accounts.get(i);
