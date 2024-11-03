@@ -38,7 +38,7 @@ public class Account {
 
     @Override
     public boolean equals(Object obj) {
-        if(obj instanceof Account comp)
+        if(obj instanceof Account comp) // Cast obj -> Account
             return this.steamId.equals(comp.getSteamId());
         return false;
     }

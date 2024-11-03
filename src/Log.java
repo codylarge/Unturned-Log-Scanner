@@ -54,7 +54,7 @@ public class Log {
                 nextLineGood = false;
                 connectionLines.add(line);
 
-                // Edge case where user spawns obstructed in which case IP is not displayed. Must be ignored with Account removed to avoid mismatch in data
+                // Uncommon case where user spawns obstructed in which case IP is not displayed. Must be ignored with Account removed to avoid mismatch in data
                 if (line.contains("it was obstructed")) {
                     connectionLines.removeLast(); // remove the current line
                     if (!connectionLines.isEmpty()) {
