@@ -52,15 +52,13 @@ public class Log {
                 nextLineGood = true;
             } else if (nextLineGood) {
                 nextLineGood = false;
-                connectionLines.add(line);
 
                 // Uncommon case where user spawns obstructed in which case IP is not displayed. Must be ignored with Account removed to avoid mismatch in data
-                if (line.contains("it was obstructed")) {
-                    connectionLines.removeLast(); // remove the current line
-                    if (!connectionLines.isEmpty()) {
-                        connectionLines.removeLast(); // remove the previous line
-                    }
-                }
+                if (line.contains("it was obstructed"))
+                    nextLineGood = true; // If obstructed, ignore line (IP is on next line)
+                else
+                    connectionLines.add(line); // If not obstructed (IP line) add to connectionLines
+
             }
         }
         return connectionLines;

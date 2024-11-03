@@ -5,10 +5,10 @@ public class Main
     public static void main(String[] args) {
         ServerData data = new ServerData();
 
-        readAllLogs(data, 2, 2);
+        readAllLogs(data, 1, 7);
 
-        data.printPlayersMap(); // DEBUG
-        //data.outputPlayerData();
+        //data.printPlayersMap(); // DEBUG
+        data.outputPlayerData();
     }
 
     static void readAllLogs(ServerData data, int min, int max) {
